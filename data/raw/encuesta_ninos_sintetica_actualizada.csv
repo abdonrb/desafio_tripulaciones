@@ -1,0 +1,1001 @@
+edad_nino,genero_nino,edad_padre,estudios_padre,ingresos_familiares,lugar_celebracion_preferido,actividad_favorita,tipo_celebracion_ideal
+3-5,Niña,41-45,Universitarios,<600€,En la naturaleza,Deportes,Gymkana o juego en la ciudad
+3-5,Niña,41-45,Secundarios,600-1200€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,41-45,Universitarios,>4500€,Al aire libre,Leer cuentos/libros,Día sin clase en el cole
+3-5,Niña,30-35,Universitarios,>4500€,En casa,Jugar,Fiesta al aire libre
+3-5,Niña,30-35,Secundarios,1201-2400€,En el colegio,Jugar,Fiesta al aire libre
+9-10,Niña,36-40,Universitarios,1201-2400€,En el parque,Jugar,Actividades virtuales
+6-8,Niña,36-40,Universitarios,2401-4500€,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niño,36-40,Secundarios,<600€,En el parque,Jugar,Fiesta al aire libre
+0-2,Niña,41-45,Universitarios,600-1200€,En la naturaleza,Jugar,Celebración en casa
+6-8,Niño,30-35,FP Grado Medio,600-1200€,Al aire libre,Jugar,Celebración en casa
+0-2,Niña,30-35,Universitarios,600-1200€,En casa,Jugar,Actividades virtuales
+0-2,Niño,36-40,Universitarios,>4500€,En el parque,Jugar,Celebración en casa
+11-12,Niño,41-45,Universitarios,600-1200€,En el colegio,Jugar,Visita a museos/teatro
+0-2,Niño,36-40,Universitarios,600-1200€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,41-45,Universitarios,2401-4500€,En la naturaleza,Jugar,Fiesta al aire libre
+6-8,Niño,36-40,Universitarios,>4500€,En la naturaleza,Jugar,Día sin clase en el cole
+3-5,Niña,>45,Secundarios,600-1200€,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niño,>45,Universitarios,<600€,En el colegio,Manualidades,Día sin clase en el cole
+0-2,Niño,36-40,Universitarios,1201-2400€,En el colegio,Jugar,Día sin clase en el cole
+9-10,Niña,36-40,Secundarios,>4500€,En casa,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,36-40,FP Grado Superior,2401-4500€,En el colegio,Jugar,Día sin clase en el cole
+6-8,Niño,36-40,Universitarios,>4500€,En casa,Manualidades,Día sin clase en el cole
+11-12,Niña,41-45,Universitarios,NS/NC,En la naturaleza,Jugar,Visita a museos/teatro
+0-2,Niño,>45,Secundarios,>4500€,En el parque,Jugar,Día sin clase en el cole
+6-8,Niño,41-45,Secundarios,2401-4500€,Al aire libre,Jugar,Celebración en casa
+3-5,Niño,>45,FP Grado Medio,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+9-10,Niña,36-40,Universitarios,<600€,En casa,Jugar,Visita a museos/teatro
+11-12,Niña,30-35,Secundarios,NS/NC,Al aire libre,Jugar,Actividades virtuales
+3-5,Niña,41-45,Universitarios,1201-2400€,En el colegio,Bailar y música,Celebración en casa
+9-10,Niña,36-40,Secundarios,600-1200€,En la naturaleza,Jugar,Celebración en casa
+0-2,Niño,41-45,Universitarios,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+6-8,Niño,36-40,FP Grado Superior,600-1200€,En el colegio,Leer cuentos/libros,Visita a museos/teatro
+6-8,Niña,30-35,Universitarios,2401-4500€,En el parque,Jugar,Actividades virtuales
+11-12,Niño,>45,Secundarios,2401-4500€,Al aire libre,Manualidades,Actividades virtuales
+9-10,Niño,30-35,Universitarios,1201-2400€,En la naturaleza,Jugar,Celebración en casa
+3-5,Niño,>45,Secundarios,>4500€,Al aire libre,Leer cuentos/libros,Gymkana o juego en la ciudad
+0-2,Niño,>45,Universitarios,600-1200€,En el parque,Jugar,Actividades virtuales
+0-2,Niña,41-45,Universitarios,1201-2400€,En casa,Manualidades,Gymkana o juego en la ciudad
+3-5,Niño,41-45,Secundarios,2401-4500€,En el parque,Leer cuentos/libros,Fiesta al aire libre
+3-5,Niña,41-45,Universitarios,2401-4500€,En la calle,Jugar,Día sin clase en el cole
+11-12,Niño,>45,Universitarios,>4500€,En la calle,Jugar,Visita a museos/teatro
+6-8,Niña,36-40,Secundarios,1201-2400€,En el parque,Jugar,Día sin clase en el cole
+6-8,Niño,41-45,Universitarios,2401-4500€,Al aire libre,Bailar y música,Día sin clase en el cole
+0-2,Niño,41-45,Secundarios,600-1200€,En la naturaleza,Jugar,Fiesta al aire libre
+11-12,Niña,36-40,Universitarios,NS/NC,En el parque,Jugar,Celebración en casa
+9-10,Niña,36-40,Universitarios,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+0-2,Niño,36-40,Secundarios,>4500€,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niño,41-45,Universitarios,<600€,Al aire libre,Jugar,Día sin clase en el cole
+6-8,Niño,>45,Universitarios,600-1200€,En casa,Deportes,Celebración en casa
+0-2,Niño,36-40,Universitarios,2401-4500€,Al aire libre,Jugar,Visita a museos/teatro
+6-8,Niño,>45,Universitarios,>4500€,Al aire libre,Manualidades,Actividades virtuales
+6-8,Niño,41-45,Universitarios,2401-4500€,Al aire libre,Jugar,Fiesta al aire libre
+0-2,Niño,>45,Universitarios,NS/NC,En la calle,Jugar,Visita a museos/teatro
+11-12,Niño,41-45,FP Grado Superior,2401-4500€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+11-12,Niña,41-45,Universitarios,2401-4500€,En la naturaleza,Jugar,Fiesta al aire libre
+9-10,Niña,<30,Universitarios,600-1200€,En el parque,Deportes,Fiesta al aire libre
+6-8,Niña,>45,Universitarios,>4500€,En el parque,Manualidades,Gymkana o juego en la ciudad
+6-8,Niño,30-35,Universitarios,600-1200€,Al aire libre,Jugar,Celebración en casa
+9-10,Niño,>45,Universitarios,>4500€,En el colegio,Jugar,Fiesta al aire libre
+6-8,Niña,>45,Universitarios,NS/NC,En el colegio,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,36-40,FP Grado Superior,NS/NC,En el colegio,Deportes,Gymkana o juego en la ciudad
+6-8,Niño,36-40,FP Grado Medio,2401-4500€,En el parque,Manualidades,Día sin clase en el cole
+11-12,Niña,41-45,Universitarios,2401-4500€,En la calle,Leer cuentos/libros,Fiesta al aire libre
+6-8,Niña,36-40,Universitarios,>4500€,Al aire libre,Jugar,Día sin clase en el cole
+0-2,Niña,>45,Secundarios,600-1200€,En la calle,Jugar,Día sin clase en el cole
+9-10,Niño,30-35,Universitarios,2401-4500€,Al aire libre,Jugar,Celebración en casa
+3-5,Niño,30-35,Universitarios,<600€,En el colegio,Jugar,Celebración en casa
+3-5,Niña,>45,FP Grado Medio,2401-4500€,En el parque,Jugar,Celebración en casa
+0-2,Niño,41-45,Secundarios,600-1200€,En el parque,Jugar,Fiesta al aire libre
+3-5,Niña,>45,Secundarios,600-1200€,En el colegio,Jugar,Actividades virtuales
+9-10,Niña,36-40,Universitarios,1201-2400€,En el parque,Manualidades,Visita a museos/teatro
+6-8,Niña,41-45,FP Grado Medio,1201-2400€,En el parque,Leer cuentos/libros,Actividades virtuales
+3-5,Niño,41-45,Secundarios,2401-4500€,En la naturaleza,Jugar,Fiesta al aire libre
+11-12,Niño,41-45,Universitarios,<600€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+11-12,Niña,41-45,FP Grado Medio,2401-4500€,En casa,Jugar,Visita a museos/teatro
+11-12,Niña,41-45,Primarios,600-1200€,En el parque,Leer cuentos/libros,Gymkana o juego en la ciudad
+3-5,Niña,36-40,FP Grado Medio,2401-4500€,En el colegio,Leer cuentos/libros,Día sin clase en el cole
+6-8,Niño,36-40,Universitarios,2401-4500€,En el colegio,Leer cuentos/libros,Gymkana o juego en la ciudad
+11-12,Niño,41-45,Universitarios,2401-4500€,En el parque,Leer cuentos/libros,Día sin clase en el cole
+9-10,Niña,36-40,FP Grado Superior,>4500€,En el colegio,Jugar,Visita a museos/teatro
+0-2,Niña,41-45,Universitarios,1201-2400€,En el parque,Jugar,Fiesta al aire libre
+0-2,Niña,36-40,Universitarios,>4500€,Al aire libre,Jugar,Fiesta al aire libre
+6-8,Niño,41-45,FP Grado Superior,1201-2400€,Al aire libre,Jugar,Celebración en casa
+11-12,Niña,41-45,FP Grado Medio,2401-4500€,Al aire libre,Leer cuentos/libros,Fiesta al aire libre
+6-8,Niña,36-40,Secundarios,2401-4500€,En la naturaleza,Jugar,Día sin clase en el cole
+6-8,Niña,30-35,Universitarios,<600€,En la naturaleza,Jugar,Fiesta al aire libre
+0-2,Niño,30-35,Universitarios,2401-4500€,En la calle,Jugar,Celebración en casa
+9-10,Niño,41-45,Secundarios,2401-4500€,En la naturaleza,Bailar y música,Gymkana o juego en la ciudad
+11-12,Niña,>45,Universitarios,1201-2400€,Al aire libre,Jugar,Celebración en casa
+3-5,Niño,30-35,Primarios,<600€,En casa,Jugar,Día sin clase en el cole
+9-10,Niño,41-45,FP Grado Superior,<600€,En casa,Jugar,Día sin clase en el cole
+11-12,Niña,36-40,Universitarios,NS/NC,En el parque,Jugar,Día sin clase en el cole
+3-5,Niño,41-45,FP Grado Superior,2401-4500€,En el colegio,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,>45,Universitarios,600-1200€,En la calle,Jugar,Actividades virtuales
+3-5,Niño,36-40,Secundarios,1201-2400€,En el colegio,Jugar,Actividades virtuales
+9-10,Niña,41-45,Universitarios,2401-4500€,En casa,Manualidades,Gymkana o juego en la ciudad
+6-8,Niña,<30,Secundarios,>4500€,Al aire libre,Jugar,Fiesta al aire libre
+9-10,Niño,30-35,Universitarios,<600€,Al aire libre,Jugar,Celebración en casa
+9-10,Niño,36-40,Secundarios,600-1200€,En el parque,Deportes,Día sin clase en el cole
+3-5,Niño,<30,Universitarios,>4500€,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niño,41-45,FP Grado Superior,<600€,En la naturaleza,Jugar,Visita a museos/teatro
+6-8,Niña,36-40,Universitarios,600-1200€,En la calle,Leer cuentos/libros,Fiesta al aire libre
+0-2,Niña,41-45,FP Grado Medio,NS/NC,En el parque,Jugar,Visita a museos/teatro
+9-10,Niño,36-40,Universitarios,2401-4500€,Al aire libre,Leer cuentos/libros,Gymkana o juego en la ciudad
+9-10,Niño,36-40,Secundarios,600-1200€,En la naturaleza,Jugar,Celebración en casa
+3-5,Niño,41-45,Secundarios,<600€,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niña,>45,Universitarios,<600€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,30-35,Secundarios,600-1200€,En el colegio,Manualidades,Fiesta al aire libre
+3-5,Niña,>45,Secundarios,>4500€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+11-12,Niña,41-45,Universitarios,1201-2400€,En la naturaleza,Leer cuentos/libros,Día sin clase en el cole
+0-2,Niña,41-45,Universitarios,>4500€,En el colegio,Deportes,Gymkana o juego en la ciudad
+3-5,Niño,41-45,FP Grado Superior,NS/NC,En el parque,Jugar,Día sin clase en el cole
+0-2,Niña,30-35,Universitarios,1201-2400€,En la calle,Jugar,Celebración en casa
+11-12,Niño,30-35,Universitarios,600-1200€,En la naturaleza,Jugar,Fiesta al aire libre
+9-10,Niño,41-45,FP Grado Medio,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+0-2,Niña,36-40,Universitarios,NS/NC,En el parque,Jugar,Día sin clase en el cole
+6-8,Niña,>45,Universitarios,>4500€,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niño,36-40,Universitarios,<600€,En el parque,Bailar y música,Fiesta al aire libre
+0-2,Niño,30-35,FP Grado Medio,2401-4500€,Al aire libre,Deportes,Día sin clase en el cole
+11-12,Niño,41-45,Universitarios,2401-4500€,En el colegio,Manualidades,Celebración en casa
+11-12,Niño,36-40,Secundarios,NS/NC,En el parque,Manualidades,Día sin clase en el cole
+6-8,Niño,41-45,Secundarios,600-1200€,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niño,41-45,Sin estudios,2401-4500€,Al aire libre,Jugar,Actividades virtuales
+6-8,Niño,>45,Universitarios,>4500€,En la naturaleza,Manualidades,Celebración en casa
+11-12,Niña,41-45,Universitarios,1201-2400€,En el parque,Jugar,Día sin clase en el cole
+9-10,Niña,41-45,Universitarios,2401-4500€,Al aire libre,Bailar y música,Actividades virtuales
+9-10,Niña,41-45,Universitarios,<600€,Al aire libre,Jugar,Fiesta al aire libre
+0-2,Niño,>45,FP Grado Medio,600-1200€,En casa,Jugar,Actividades virtuales
+11-12,Niña,36-40,Secundarios,1201-2400€,En casa,Jugar,Fiesta al aire libre
+6-8,Niña,<30,FP Grado Medio,NS/NC,Al aire libre,Deportes,Celebración en casa
+0-2,Niña,36-40,FP Grado Superior,600-1200€,En la naturaleza,Jugar,Visita a museos/teatro
+0-2,Niña,36-40,Universitarios,1201-2400€,En el colegio,Leer cuentos/libros,Día sin clase en el cole
+6-8,Niña,41-45,Universitarios,2401-4500€,En la calle,Jugar,Fiesta al aire libre
+6-8,Niña,41-45,Secundarios,600-1200€,En el parque,Jugar,Fiesta al aire libre
+9-10,Niño,41-45,Primarios,2401-4500€,En la naturaleza,Leer cuentos/libros,Día sin clase en el cole
+11-12,Niña,<30,Secundarios,>4500€,Al aire libre,Jugar,Día sin clase en el cole
+0-2,Niña,41-45,FP Grado Superior,>4500€,En el parque,Jugar,Día sin clase en el cole
+9-10,Niña,36-40,Universitarios,2401-4500€,En la calle,Jugar,Fiesta al aire libre
+0-2,Niña,41-45,Universitarios,2401-4500€,En el colegio,Jugar,Fiesta al aire libre
+11-12,Niño,41-45,Universitarios,600-1200€,En el parque,Jugar,Fiesta al aire libre
+11-12,Niño,36-40,Universitarios,NS/NC,Al aire libre,Jugar,Día sin clase en el cole
+6-8,Niña,30-35,FP Grado Superior,600-1200€,En la naturaleza,Jugar,Fiesta al aire libre
+9-10,Niña,30-35,Secundarios,>4500€,En la naturaleza,Bailar y música,Visita a museos/teatro
+3-5,Niña,>45,Universitarios,600-1200€,En el parque,Jugar,Gymkana o juego en la ciudad
+6-8,Niño,>45,Universitarios,NS/NC,En la calle,Leer cuentos/libros,Fiesta al aire libre
+11-12,Niño,41-45,Secundarios,>4500€,Al aire libre,Jugar,Celebración en casa
+6-8,Niña,30-35,Universitarios,>4500€,En el parque,Jugar,Celebración en casa
+3-5,Niña,36-40,Universitarios,600-1200€,En casa,Jugar,Fiesta al aire libre
+6-8,Niña,41-45,Universitarios,1201-2400€,En el parque,Jugar,Actividades virtuales
+11-12,Niño,41-45,Universitarios,2401-4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,30-35,Universitarios,>4500€,En el colegio,Jugar,Actividades virtuales
+0-2,Niño,<30,Universitarios,600-1200€,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niña,41-45,Secundarios,NS/NC,Al aire libre,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,36-40,Secundarios,>4500€,En la calle,Jugar,Día sin clase en el cole
+0-2,Niño,36-40,Secundarios,600-1200€,En la naturaleza,Jugar,Celebración en casa
+3-5,Niña,<30,Primarios,>4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,41-45,Universitarios,2401-4500€,En la naturaleza,Deportes,Día sin clase en el cole
+3-5,Niño,>45,Universitarios,1201-2400€,En el parque,Jugar,Día sin clase en el cole
+6-8,Niña,>45,Secundarios,1201-2400€,En el parque,Jugar,Visita a museos/teatro
+9-10,Niño,41-45,Universitarios,2401-4500€,En la naturaleza,Jugar,Actividades virtuales
+9-10,Niño,41-45,Secundarios,>4500€,En la calle,Deportes,Fiesta al aire libre
+9-10,Niño,30-35,FP Grado Medio,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+3-5,Niño,41-45,FP Grado Medio,2401-4500€,En el parque,Leer cuentos/libros,Fiesta al aire libre
+11-12,Niña,36-40,FP Grado Superior,2401-4500€,En el colegio,Jugar,Gymkana o juego en la ciudad
+6-8,Niño,41-45,FP Grado Medio,>4500€,En el parque,Bailar y música,Visita a museos/teatro
+11-12,Niño,36-40,Universitarios,<600€,En el parque,Manualidades,Día sin clase en el cole
+9-10,Niña,36-40,FP Grado Superior,>4500€,Al aire libre,Manualidades,Gymkana o juego en la ciudad
+0-2,Niño,30-35,Universitarios,1201-2400€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,36-40,Secundarios,600-1200€,En el parque,Jugar,Fiesta al aire libre
+3-5,Niño,30-35,Secundarios,600-1200€,Al aire libre,Jugar,Fiesta al aire libre
+9-10,Niña,36-40,Secundarios,2401-4500€,En la naturaleza,Jugar,Fiesta al aire libre
+0-2,Niño,>45,Universitarios,>4500€,En la naturaleza,Manualidades,Día sin clase en el cole
+0-2,Niño,36-40,Secundarios,1201-2400€,En el colegio,Jugar,Fiesta al aire libre
+11-12,Niño,41-45,Universitarios,>4500€,En el parque,Jugar,Día sin clase en el cole
+3-5,Niño,>45,Universitarios,<600€,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niño,>45,Universitarios,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+3-5,Niña,41-45,Universitarios,NS/NC,Al aire libre,Jugar,Celebración en casa
+9-10,Niña,>45,Secundarios,>4500€,En la naturaleza,Leer cuentos/libros,Gymkana o juego en la ciudad
+9-10,Niña,36-40,Secundarios,600-1200€,Al aire libre,Jugar,Fiesta al aire libre
+6-8,Niña,36-40,FP Grado Medio,2401-4500€,Al aire libre,Jugar,Celebración en casa
+3-5,Niño,36-40,Universitarios,600-1200€,Al aire libre,Jugar,Celebración en casa
+3-5,Niño,41-45,Secundarios,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+0-2,Niño,41-45,Secundarios,>4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,36-40,Universitarios,>4500€,En la calle,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,30-35,Primarios,600-1200€,En el parque,Jugar,Fiesta al aire libre
+11-12,Niña,41-45,Universitarios,NS/NC,Al aire libre,Leer cuentos/libros,Fiesta al aire libre
+11-12,Niño,30-35,Universitarios,2401-4500€,En el parque,Leer cuentos/libros,Actividades virtuales
+9-10,Niño,41-45,FP Grado Medio,1201-2400€,En casa,Jugar,Actividades virtuales
+9-10,Niña,41-45,Secundarios,2401-4500€,En el colegio,Deportes,Día sin clase en el cole
+9-10,Niña,41-45,Secundarios,2401-4500€,En el parque,Manualidades,Día sin clase en el cole
+3-5,Niño,41-45,Universitarios,2401-4500€,En casa,Deportes,Fiesta al aire libre
+11-12,Niña,>45,Universitarios,2401-4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,41-45,Universitarios,2401-4500€,En el parque,Deportes,Día sin clase en el cole
+6-8,Niño,41-45,Universitarios,600-1200€,Al aire libre,Leer cuentos/libros,Actividades virtuales
+0-2,Niño,41-45,Universitarios,>4500€,En el parque,Manualidades,Día sin clase en el cole
+6-8,Niña,36-40,Secundarios,2401-4500€,En el parque,Jugar,Visita a museos/teatro
+6-8,Niña,<30,Secundarios,600-1200€,En la naturaleza,Leer cuentos/libros,Celebración en casa
+11-12,Niña,36-40,Universitarios,>4500€,En el parque,Deportes,Celebración en casa
+6-8,Niño,36-40,Secundarios,NS/NC,En el colegio,Jugar,Día sin clase en el cole
+3-5,Niño,41-45,Secundarios,NS/NC,Al aire libre,Jugar,Día sin clase en el cole
+11-12,Niña,>45,Universitarios,1201-2400€,Al aire libre,Deportes,Fiesta al aire libre
+0-2,Niña,36-40,FP Grado Superior,600-1200€,En el parque,Jugar,Día sin clase en el cole
+6-8,Niño,30-35,Universitarios,2401-4500€,En casa,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,>45,Universitarios,600-1200€,En el parque,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,30-35,Secundarios,NS/NC,En la naturaleza,Deportes,Día sin clase en el cole
+11-12,Niña,41-45,Universitarios,600-1200€,En el parque,Jugar,Día sin clase en el cole
+3-5,Niña,41-45,FP Grado Medio,600-1200€,Al aire libre,Jugar,Celebración en casa
+11-12,Niña,41-45,FP Grado Superior,1201-2400€,Al aire libre,Jugar,Día sin clase en el cole
+3-5,Niño,30-35,FP Grado Superior,1201-2400€,En el parque,Leer cuentos/libros,Día sin clase en el cole
+11-12,Niña,30-35,Secundarios,>4500€,Al aire libre,Jugar,Fiesta al aire libre
+9-10,Niño,30-35,Universitarios,1201-2400€,Al aire libre,Deportes,Visita a museos/teatro
+11-12,Niña,41-45,Secundarios,600-1200€,En la naturaleza,Deportes,Gymkana o juego en la ciudad
+0-2,Niño,41-45,FP Grado Superior,600-1200€,Al aire libre,Jugar,Día sin clase en el cole
+11-12,Niña,36-40,FP Grado Superior,2401-4500€,En el colegio,Jugar,Fiesta al aire libre
+9-10,Niño,41-45,Universitarios,600-1200€,En el parque,Jugar,Visita a museos/teatro
+3-5,Niño,>45,Universitarios,2401-4500€,En el colegio,Jugar,Celebración en casa
+11-12,Niño,30-35,Secundarios,2401-4500€,En el colegio,Jugar,Fiesta al aire libre
+3-5,Niño,41-45,FP Grado Superior,>4500€,En el parque,Deportes,Gymkana o juego en la ciudad
+11-12,Niña,41-45,FP Grado Superior,NS/NC,En el parque,Manualidades,Fiesta al aire libre
+0-2,Niña,36-40,Secundarios,NS/NC,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niña,36-40,Universitarios,NS/NC,En casa,Jugar,Celebración en casa
+6-8,Niño,41-45,Universitarios,600-1200€,Al aire libre,Jugar,Celebración en casa
+0-2,Niño,>45,Secundarios,600-1200€,Al aire libre,Jugar,Visita a museos/teatro
+3-5,Niño,41-45,FP Grado Superior,1201-2400€,En casa,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,41-45,Secundarios,>4500€,En el parque,Manualidades,Día sin clase en el cole
+6-8,Niña,41-45,Universitarios,NS/NC,En el colegio,Deportes,Fiesta al aire libre
+3-5,Niño,36-40,Secundarios,>4500€,En el parque,Jugar,Celebración en casa
+6-8,Niño,41-45,Universitarios,600-1200€,Al aire libre,Manualidades,Celebración en casa
+3-5,Niño,41-45,Universitarios,NS/NC,En el colegio,Jugar,Día sin clase en el cole
+3-5,Niño,36-40,FP Grado Superior,1201-2400€,En el colegio,Leer cuentos/libros,Gymkana o juego en la ciudad
+9-10,Niña,41-45,Universitarios,<600€,Al aire libre,Jugar,Fiesta al aire libre
+0-2,Niña,41-45,Universitarios,1201-2400€,En el parque,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,36-40,Universitarios,<600€,En la naturaleza,Deportes,Actividades virtuales
+11-12,Niño,>45,Secundarios,2401-4500€,En el colegio,Jugar,Fiesta al aire libre
+9-10,Niño,<30,FP Grado Superior,1201-2400€,Al aire libre,Leer cuentos/libros,Celebración en casa
+6-8,Niño,36-40,Universitarios,2401-4500€,En el colegio,Jugar,Fiesta al aire libre
+11-12,Niño,30-35,Universitarios,2401-4500€,En la naturaleza,Jugar,Celebración en casa
+0-2,Niña,41-45,Universitarios,>4500€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,41-45,Universitarios,2401-4500€,En el colegio,Jugar,Actividades virtuales
+3-5,Niña,36-40,Universitarios,1201-2400€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+9-10,Niño,41-45,Universitarios,>4500€,En la naturaleza,Jugar,Fiesta al aire libre
+0-2,Niño,36-40,Secundarios,NS/NC,En la naturaleza,Jugar,Día sin clase en el cole
+6-8,Niña,41-45,Universitarios,600-1200€,Al aire libre,Jugar,Fiesta al aire libre
+11-12,Niña,36-40,Universitarios,2401-4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+11-12,Niña,36-40,Universitarios,600-1200€,En el parque,Jugar,Gymkana o juego en la ciudad
+6-8,Niño,>45,Universitarios,<600€,En la naturaleza,Deportes,Visita a museos/teatro
+0-2,Niña,36-40,Secundarios,2401-4500€,Al aire libre,Jugar,Día sin clase en el cole
+11-12,Niño,30-35,Universitarios,>4500€,En el colegio,Jugar,Celebración en casa
+6-8,Niña,41-45,Universitarios,600-1200€,En casa,Jugar,Visita a museos/teatro
+0-2,Niña,>45,Secundarios,>4500€,En la naturaleza,Jugar,Día sin clase en el cole
+0-2,Niña,36-40,Universitarios,>4500€,En casa,Jugar,Celebración en casa
+11-12,Niño,30-35,Secundarios,NS/NC,En la calle,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,36-40,FP Grado Superior,600-1200€,Al aire libre,Jugar,Día sin clase en el cole
+11-12,Niño,41-45,Primarios,NS/NC,En el colegio,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,30-35,FP Grado Superior,1201-2400€,En el parque,Leer cuentos/libros,Visita a museos/teatro
+6-8,Niño,41-45,Universitarios,2401-4500€,En casa,Jugar,Día sin clase en el cole
+6-8,Niña,>45,Universitarios,<600€,En el parque,Jugar,Fiesta al aire libre
+6-8,Niño,36-40,Universitarios,<600€,En la calle,Jugar,Fiesta al aire libre
+3-5,Niño,36-40,Universitarios,>4500€,En el colegio,Leer cuentos/libros,Actividades virtuales
+6-8,Niña,36-40,Secundarios,1201-2400€,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niño,30-35,Secundarios,600-1200€,Al aire libre,Jugar,Celebración en casa
+9-10,Niña,>45,Universitarios,600-1200€,Al aire libre,Jugar,Celebración en casa
+11-12,Niño,36-40,Secundarios,2401-4500€,En la naturaleza,Jugar,Celebración en casa
+6-8,Niño,36-40,Universitarios,<600€,Al aire libre,Jugar,Visita a museos/teatro
+9-10,Niña,41-45,Universitarios,>4500€,En la naturaleza,Manualidades,Actividades virtuales
+9-10,Niño,36-40,Universitarios,<600€,Al aire libre,Jugar,Día sin clase en el cole
+6-8,Niño,41-45,Universitarios,600-1200€,En la naturaleza,Jugar,Fiesta al aire libre
+9-10,Niña,30-35,Secundarios,1201-2400€,En el parque,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,>45,FP Grado Medio,2401-4500€,En el colegio,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,>45,Universitarios,1201-2400€,En la naturaleza,Jugar,Fiesta al aire libre
+0-2,Niño,41-45,FP Grado Superior,1201-2400€,En el parque,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,>45,Universitarios,NS/NC,Al aire libre,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,30-35,Secundarios,2401-4500€,Al aire libre,Jugar,Visita a museos/teatro
+9-10,Niña,41-45,Universitarios,<600€,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niña,41-45,Universitarios,1201-2400€,En el colegio,Leer cuentos/libros,Visita a museos/teatro
+9-10,Niña,41-45,Universitarios,>4500€,En la naturaleza,Jugar,Fiesta al aire libre
+9-10,Niña,36-40,FP Grado Medio,1201-2400€,En el colegio,Jugar,Fiesta al aire libre
+6-8,Niño,36-40,FP Grado Superior,<600€,En el parque,Jugar,Actividades virtuales
+9-10,Niño,30-35,Universitarios,>4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,36-40,Secundarios,2401-4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,30-35,Universitarios,2401-4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,41-45,Universitarios,<600€,En la calle,Deportes,Gymkana o juego en la ciudad
+6-8,Niña,36-40,Universitarios,600-1200€,En casa,Leer cuentos/libros,Visita a museos/teatro
+0-2,Niña,30-35,Universitarios,2401-4500€,En el parque,Jugar,Actividades virtuales
+0-2,Niño,41-45,Secundarios,600-1200€,En el colegio,Manualidades,Día sin clase en el cole
+3-5,Niño,41-45,Universitarios,2401-4500€,En casa,Leer cuentos/libros,Día sin clase en el cole
+11-12,Niño,>45,Universitarios,2401-4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,41-45,Universitarios,600-1200€,Al aire libre,Manualidades,Día sin clase en el cole
+6-8,Niña,36-40,Universitarios,NS/NC,Al aire libre,Jugar,Fiesta al aire libre
+0-2,Niño,41-45,Universitarios,>4500€,En el colegio,Jugar,Día sin clase en el cole
+9-10,Niño,41-45,Secundarios,>4500€,En la calle,Jugar,Fiesta al aire libre
+3-5,Niña,30-35,FP Grado Superior,<600€,En la naturaleza,Jugar,Día sin clase en el cole
+3-5,Niño,41-45,Universitarios,600-1200€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,>45,FP Grado Medio,2401-4500€,Al aire libre,Jugar,Celebración en casa
+0-2,Niña,36-40,Universitarios,600-1200€,En la naturaleza,Deportes,Fiesta al aire libre
+0-2,Niño,36-40,Universitarios,NS/NC,En casa,Deportes,Visita a museos/teatro
+3-5,Niña,30-35,FP Grado Superior,600-1200€,En el colegio,Manualidades,Actividades virtuales
+0-2,Niño,30-35,Secundarios,2401-4500€,En la naturaleza,Leer cuentos/libros,Gymkana o juego en la ciudad
+0-2,Niño,36-40,Universitarios,1201-2400€,Al aire libre,Deportes,Día sin clase en el cole
+3-5,Niña,41-45,FP Grado Medio,2401-4500€,En casa,Jugar,Actividades virtuales
+11-12,Niño,30-35,Universitarios,600-1200€,En la naturaleza,Jugar,Visita a museos/teatro
+6-8,Niña,>45,Universitarios,1201-2400€,En el parque,Jugar,Actividades virtuales
+6-8,Niña,41-45,Universitarios,600-1200€,En la naturaleza,Manualidades,Día sin clase en el cole
+3-5,Niño,41-45,Universitarios,>4500€,Al aire libre,Jugar,Visita a museos/teatro
+11-12,Niño,>45,FP Grado Superior,<600€,Al aire libre,Leer cuentos/libros,Gymkana o juego en la ciudad
+3-5,Niño,30-35,Universitarios,NS/NC,Al aire libre,Jugar,Celebración en casa
+0-2,Niño,41-45,FP Grado Superior,>4500€,Al aire libre,Jugar,Visita a museos/teatro
+9-10,Niño,41-45,FP Grado Superior,600-1200€,En el parque,Leer cuentos/libros,Día sin clase en el cole
+0-2,Niño,>45,Universitarios,>4500€,En el parque,Jugar,Visita a museos/teatro
+3-5,Niño,41-45,Universitarios,<600€,En el colegio,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,36-40,FP Grado Superior,NS/NC,En el colegio,Jugar,Visita a museos/teatro
+11-12,Niña,>45,Universitarios,2401-4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,30-35,Universitarios,1201-2400€,Al aire libre,Jugar,Visita a museos/teatro
+9-10,Niño,>45,FP Grado Medio,1201-2400€,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niño,>45,FP Grado Medio,<600€,En el parque,Jugar,Celebración en casa
+0-2,Niña,36-40,Universitarios,NS/NC,En el parque,Jugar,Fiesta al aire libre
+3-5,Niño,41-45,Universitarios,<600€,En casa,Leer cuentos/libros,Fiesta al aire libre
+3-5,Niño,30-35,Universitarios,2401-4500€,En la naturaleza,Jugar,Día sin clase en el cole
+6-8,Niña,36-40,Universitarios,1201-2400€,En casa,Jugar,Celebración en casa
+6-8,Niña,41-45,Primarios,NS/NC,En el colegio,Leer cuentos/libros,Día sin clase en el cole
+11-12,Niña,41-45,Universitarios,600-1200€,Al aire libre,Jugar,Fiesta al aire libre
+9-10,Niño,>45,Universitarios,2401-4500€,En la naturaleza,Manualidades,Gymkana o juego en la ciudad
+9-10,Niña,41-45,Universitarios,2401-4500€,Al aire libre,Jugar,Visita a museos/teatro
+3-5,Niña,41-45,FP Grado Superior,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+11-12,Niña,41-45,Secundarios,<600€,Al aire libre,Jugar,Día sin clase en el cole
+11-12,Niña,>45,Secundarios,600-1200€,En la naturaleza,Deportes,Día sin clase en el cole
+11-12,Niña,<30,Universitarios,600-1200€,Al aire libre,Leer cuentos/libros,Gymkana o juego en la ciudad
+0-2,Niña,>45,FP Grado Superior,>4500€,En casa,Jugar,Día sin clase en el cole
+9-10,Niño,30-35,Universitarios,600-1200€,En casa,Jugar,Fiesta al aire libre
+0-2,Niña,>45,Secundarios,2401-4500€,En el colegio,Leer cuentos/libros,Actividades virtuales
+3-5,Niña,36-40,Primarios,600-1200€,En la naturaleza,Jugar,Celebración en casa
+0-2,Niña,30-35,Universitarios,>4500€,En el colegio,Leer cuentos/libros,Fiesta al aire libre
+9-10,Niño,36-40,Universitarios,NS/NC,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niño,41-45,Universitarios,2401-4500€,En el parque,Leer cuentos/libros,Celebración en casa
+0-2,Niña,36-40,Secundarios,1201-2400€,En la naturaleza,Jugar,Día sin clase en el cole
+3-5,Niña,30-35,Universitarios,600-1200€,En el colegio,Jugar,Celebración en casa
+6-8,Niña,41-45,Secundarios,<600€,En la calle,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,>45,Secundarios,600-1200€,En el colegio,Bailar y música,Gymkana o juego en la ciudad
+0-2,Niña,36-40,Universitarios,2401-4500€,En el colegio,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,36-40,FP Grado Medio,2401-4500€,En la naturaleza,Jugar,Actividades virtuales
+9-10,Niña,36-40,Secundarios,NS/NC,En la naturaleza,Jugar,Día sin clase en el cole
+0-2,Niña,30-35,Universitarios,1201-2400€,En el colegio,Jugar,Fiesta al aire libre
+0-2,Niña,>45,Universitarios,2401-4500€,Al aire libre,Manualidades,Día sin clase en el cole
+3-5,Niño,>45,Universitarios,2401-4500€,En el colegio,Leer cuentos/libros,Celebración en casa
+11-12,Niño,41-45,FP Grado Superior,2401-4500€,En la calle,Jugar,Visita a museos/teatro
+9-10,Niña,36-40,Secundarios,600-1200€,En la naturaleza,Bailar y música,Gymkana o juego en la ciudad
+9-10,Niño,41-45,FP Grado Medio,1201-2400€,En la naturaleza,Leer cuentos/libros,Fiesta al aire libre
+3-5,Niño,41-45,Universitarios,2401-4500€,Al aire libre,Manualidades,Visita a museos/teatro
+6-8,Niño,>45,Universitarios,2401-4500€,En el colegio,Jugar,Fiesta al aire libre
+0-2,Niño,41-45,Universitarios,NS/NC,En la naturaleza,Manualidades,Fiesta al aire libre
+9-10,Niño,41-45,Sin estudios,1201-2400€,En casa,Jugar,Fiesta al aire libre
+11-12,Niño,41-45,Universitarios,<600€,Al aire libre,Jugar,Celebración en casa
+9-10,Niña,36-40,Primarios,2401-4500€,En casa,Manualidades,Día sin clase en el cole
+11-12,Niña,>45,Universitarios,2401-4500€,En el colegio,Jugar,Actividades virtuales
+9-10,Niño,41-45,Universitarios,600-1200€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,41-45,Universitarios,>4500€,En el parque,Leer cuentos/libros,Día sin clase en el cole
+11-12,Niña,36-40,Universitarios,NS/NC,En el parque,Manualidades,Celebración en casa
+0-2,Niño,41-45,Universitarios,NS/NC,En el colegio,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,41-45,Universitarios,600-1200€,Al aire libre,Manualidades,Día sin clase en el cole
+0-2,Niña,36-40,Universitarios,>4500€,Al aire libre,Jugar,Fiesta al aire libre
+0-2,Niña,30-35,Secundarios,2401-4500€,En la naturaleza,Jugar,Actividades virtuales
+6-8,Niño,41-45,Universitarios,1201-2400€,Al aire libre,Manualidades,Actividades virtuales
+3-5,Niña,41-45,Secundarios,2401-4500€,Al aire libre,Jugar,Visita a museos/teatro
+6-8,Niño,41-45,Universitarios,>4500€,En el colegio,Jugar,Actividades virtuales
+6-8,Niña,36-40,Universitarios,2401-4500€,En el colegio,Jugar,Día sin clase en el cole
+0-2,Niña,41-45,Universitarios,1201-2400€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,30-35,FP Grado Superior,2401-4500€,En el parque,Jugar,Actividades virtuales
+6-8,Niño,36-40,Secundarios,2401-4500€,En la naturaleza,Leer cuentos/libros,Gymkana o juego en la ciudad
+3-5,Niño,30-35,Universitarios,600-1200€,En el colegio,Leer cuentos/libros,Fiesta al aire libre
+9-10,Niña,36-40,Universitarios,NS/NC,Al aire libre,Jugar,Fiesta al aire libre
+9-10,Niño,36-40,Universitarios,2401-4500€,Al aire libre,Leer cuentos/libros,Gymkana o juego en la ciudad
+11-12,Niña,36-40,FP Grado Superior,2401-4500€,En el parque,Jugar,Visita a museos/teatro
+9-10,Niño,30-35,Universitarios,<600€,En el parque,Jugar,Fiesta al aire libre
+6-8,Niña,36-40,Universitarios,2401-4500€,En la naturaleza,Manualidades,Fiesta al aire libre
+9-10,Niña,41-45,Secundarios,600-1200€,En el colegio,Jugar,Visita a museos/teatro
+3-5,Niña,41-45,Primarios,<600€,En el parque,Jugar,Fiesta al aire libre
+3-5,Niña,36-40,Universitarios,2401-4500€,Al aire libre,Jugar,Día sin clase en el cole
+9-10,Niño,>45,Universitarios,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+6-8,Niño,30-35,Universitarios,2401-4500€,En el colegio,Manualidades,Actividades virtuales
+9-10,Niña,41-45,Universitarios,<600€,En el parque,Jugar,Celebración en casa
+11-12,Niño,30-35,Universitarios,1201-2400€,En el colegio,Jugar,Celebración en casa
+11-12,Niño,30-35,Universitarios,600-1200€,Al aire libre,Jugar,Celebración en casa
+11-12,Niño,41-45,Primarios,NS/NC,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+6-8,Niño,41-45,Secundarios,2401-4500€,En casa,Jugar,Actividades virtuales
+3-5,Niño,>45,Universitarios,2401-4500€,En el parque,Jugar,Actividades virtuales
+6-8,Niña,41-45,Universitarios,1201-2400€,En el colegio,Manualidades,Día sin clase en el cole
+3-5,Niño,>45,Universitarios,<600€,En la calle,Deportes,Día sin clase en el cole
+9-10,Niña,30-35,Universitarios,NS/NC,En el parque,Jugar,Visita a museos/teatro
+9-10,Niño,30-35,FP Grado Medio,600-1200€,En el colegio,Jugar,Actividades virtuales
+9-10,Niña,30-35,Universitarios,1201-2400€,Al aire libre,Jugar,Actividades virtuales
+3-5,Niño,36-40,Secundarios,2401-4500€,En el colegio,Deportes,Actividades virtuales
+0-2,Niña,41-45,FP Grado Superior,<600€,Al aire libre,Bailar y música,Fiesta al aire libre
+6-8,Niña,41-45,Universitarios,>4500€,En la calle,Jugar,Fiesta al aire libre
+0-2,Niño,30-35,Universitarios,2401-4500€,En la naturaleza,Leer cuentos/libros,Fiesta al aire libre
+11-12,Niña,>45,Universitarios,600-1200€,En la naturaleza,Jugar,Día sin clase en el cole
+3-5,Niña,>45,FP Grado Medio,<600€,En la naturaleza,Jugar,Celebración en casa
+0-2,Niña,36-40,Universitarios,600-1200€,En el colegio,Jugar,Fiesta al aire libre
+0-2,Niña,30-35,FP Grado Medio,>4500€,En el parque,Jugar,Fiesta al aire libre
+9-10,Niño,36-40,Universitarios,2401-4500€,En casa,Jugar,Fiesta al aire libre
+9-10,Niña,30-35,Universitarios,600-1200€,En la calle,Jugar,Fiesta al aire libre
+3-5,Niño,30-35,Universitarios,<600€,En el colegio,Jugar,Día sin clase en el cole
+0-2,Niño,41-45,Universitarios,2401-4500€,En casa,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,36-40,Secundarios,2401-4500€,En el colegio,Jugar,Día sin clase en el cole
+3-5,Niño,36-40,Universitarios,1201-2400€,En el colegio,Jugar,Día sin clase en el cole
+9-10,Niña,>45,Secundarios,1201-2400€,En el colegio,Jugar,Visita a museos/teatro
+9-10,Niña,41-45,Universitarios,600-1200€,Al aire libre,Jugar,Día sin clase en el cole
+3-5,Niña,>45,FP Grado Medio,2401-4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,30-35,FP Grado Medio,NS/NC,En el parque,Jugar,Fiesta al aire libre
+11-12,Niño,36-40,Universitarios,600-1200€,En el colegio,Jugar,Fiesta al aire libre
+6-8,Niño,41-45,Universitarios,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+9-10,Niño,30-35,Primarios,1201-2400€,En el parque,Jugar,Celebración en casa
+0-2,Niño,<30,FP Grado Superior,1201-2400€,En la calle,Jugar,Celebración en casa
+6-8,Niño,41-45,Universitarios,600-1200€,En el parque,Leer cuentos/libros,Día sin clase en el cole
+0-2,Niño,41-45,FP Grado Superior,>4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,36-40,Secundarios,2401-4500€,Al aire libre,Jugar,Visita a museos/teatro
+11-12,Niña,41-45,FP Grado Superior,2401-4500€,Al aire libre,Jugar,Actividades virtuales
+3-5,Niño,36-40,FP Grado Superior,1201-2400€,En la naturaleza,Jugar,Celebración en casa
+0-2,Niña,<30,Universitarios,600-1200€,En el colegio,Jugar,Día sin clase en el cole
+0-2,Niño,36-40,Universitarios,<600€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,36-40,Universitarios,>4500€,Al aire libre,Jugar,Fiesta al aire libre
+0-2,Niña,30-35,Universitarios,600-1200€,En el colegio,Deportes,Día sin clase en el cole
+0-2,Niña,>45,Universitarios,2401-4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,41-45,Secundarios,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+6-8,Niño,41-45,FP Grado Medio,1201-2400€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,36-40,Universitarios,1201-2400€,Al aire libre,Deportes,Celebración en casa
+11-12,Niña,36-40,Secundarios,1201-2400€,En el parque,Leer cuentos/libros,Actividades virtuales
+0-2,Niña,36-40,Universitarios,600-1200€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+11-12,Niña,30-35,Universitarios,1201-2400€,En la calle,Manualidades,Actividades virtuales
+3-5,Niña,36-40,FP Grado Medio,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+11-12,Niña,41-45,Universitarios,2401-4500€,Al aire libre,Manualidades,Actividades virtuales
+9-10,Niña,41-45,Universitarios,600-1200€,Al aire libre,Manualidades,Día sin clase en el cole
+11-12,Niña,41-45,Universitarios,1201-2400€,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niña,41-45,Universitarios,600-1200€,Al aire libre,Jugar,Fiesta al aire libre
+3-5,Niño,>45,Universitarios,600-1200€,En casa,Jugar,Fiesta al aire libre
+11-12,Niña,30-35,Universitarios,<600€,En la calle,Jugar,Visita a museos/teatro
+3-5,Niño,36-40,Universitarios,>4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,36-40,Universitarios,600-1200€,En el parque,Leer cuentos/libros,Gymkana o juego en la ciudad
+3-5,Niña,41-45,Secundarios,600-1200€,Al aire libre,Jugar,Fiesta al aire libre
+6-8,Niña,>45,Secundarios,600-1200€,En el colegio,Jugar,Fiesta al aire libre
+0-2,Niña,36-40,Universitarios,600-1200€,En el parque,Leer cuentos/libros,Gymkana o juego en la ciudad
+6-8,Niño,>45,FP Grado Medio,2401-4500€,En el parque,Jugar,Celebración en casa
+6-8,Niña,>45,Primarios,<600€,Al aire libre,Jugar,Celebración en casa
+9-10,Niño,36-40,Universitarios,600-1200€,En la naturaleza,Jugar,Actividades virtuales
+11-12,Niña,36-40,Primarios,2401-4500€,En el parque,Jugar,Visita a museos/teatro
+6-8,Niña,36-40,Universitarios,1201-2400€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,>45,Universitarios,2401-4500€,En la naturaleza,Jugar,Celebración en casa
+3-5,Niña,36-40,Universitarios,2401-4500€,En el colegio,Bailar y música,Gymkana o juego en la ciudad
+0-2,Niña,41-45,Universitarios,600-1200€,En casa,Leer cuentos/libros,Celebración en casa
+0-2,Niña,36-40,Secundarios,2401-4500€,Al aire libre,Jugar,Fiesta al aire libre
+3-5,Niño,41-45,Universitarios,600-1200€,En la naturaleza,Jugar,Visita a museos/teatro
+3-5,Niño,36-40,Universitarios,2401-4500€,En la naturaleza,Jugar,Celebración en casa
+11-12,Niña,41-45,Universitarios,1201-2400€,Al aire libre,Jugar,Visita a museos/teatro
+6-8,Niña,>45,Universitarios,600-1200€,En la naturaleza,Jugar,Actividades virtuales
+3-5,Niño,41-45,FP Grado Medio,2401-4500€,En el parque,Jugar,Visita a museos/teatro
+6-8,Niña,>45,Universitarios,>4500€,En la calle,Manualidades,Actividades virtuales
+0-2,Niño,30-35,Secundarios,NS/NC,Al aire libre,Jugar,Fiesta al aire libre
+6-8,Niña,41-45,Universitarios,2401-4500€,En el colegio,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,30-35,FP Grado Superior,1201-2400€,En el parque,Manualidades,Gymkana o juego en la ciudad
+6-8,Niña,36-40,Primarios,600-1200€,En la calle,Jugar,Día sin clase en el cole
+6-8,Niña,41-45,FP Grado Superior,600-1200€,En el parque,Jugar,Fiesta al aire libre
+11-12,Niño,36-40,FP Grado Medio,2401-4500€,En la calle,Jugar,Fiesta al aire libre
+11-12,Niño,41-45,Universitarios,1201-2400€,En casa,Jugar,Fiesta al aire libre
+9-10,Niña,>45,Universitarios,NS/NC,En el parque,Leer cuentos/libros,Visita a museos/teatro
+6-8,Niña,30-35,FP Grado Medio,1201-2400€,En la naturaleza,Jugar,Visita a museos/teatro
+9-10,Niño,41-45,Universitarios,1201-2400€,En la calle,Manualidades,Día sin clase en el cole
+3-5,Niña,36-40,Secundarios,1201-2400€,En el parque,Deportes,Gymkana o juego en la ciudad
+3-5,Niño,30-35,Universitarios,>4500€,En el parque,Deportes,Gymkana o juego en la ciudad
+0-2,Niña,30-35,Secundarios,2401-4500€,En el colegio,Deportes,Gymkana o juego en la ciudad
+6-8,Niña,>45,Universitarios,2401-4500€,En el parque,Jugar,Celebración en casa
+6-8,Niño,>45,Universitarios,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+3-5,Niño,>45,Universitarios,>4500€,Al aire libre,Jugar,Fiesta al aire libre
+11-12,Niña,>45,Universitarios,<600€,En el parque,Jugar,Actividades virtuales
+11-12,Niña,36-40,Universitarios,>4500€,En el parque,Manualidades,Actividades virtuales
+9-10,Niña,36-40,Universitarios,2401-4500€,Al aire libre,Jugar,Día sin clase en el cole
+6-8,Niña,41-45,Universitarios,1201-2400€,En casa,Deportes,Celebración en casa
+11-12,Niña,41-45,Universitarios,2401-4500€,En la naturaleza,Manualidades,Gymkana o juego en la ciudad
+0-2,Niña,36-40,Universitarios,2401-4500€,Al aire libre,Bailar y música,Gymkana o juego en la ciudad
+9-10,Niña,36-40,Secundarios,<600€,En la naturaleza,Manualidades,Día sin clase en el cole
+0-2,Niño,41-45,Universitarios,>4500€,En la naturaleza,Jugar,Fiesta al aire libre
+9-10,Niño,41-45,Secundarios,1201-2400€,En la calle,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,30-35,Universitarios,1201-2400€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+11-12,Niña,41-45,Universitarios,600-1200€,En el parque,Jugar,Celebración en casa
+11-12,Niño,41-45,Universitarios,1201-2400€,En casa,Jugar,Celebración en casa
+0-2,Niña,41-45,Primarios,2401-4500€,En casa,Leer cuentos/libros,Día sin clase en el cole
+6-8,Niña,36-40,Secundarios,1201-2400€,En la naturaleza,Manualidades,Día sin clase en el cole
+11-12,Niña,41-45,Universitarios,2401-4500€,En la naturaleza,Jugar,Actividades virtuales
+6-8,Niño,<30,Universitarios,1201-2400€,Al aire libre,Jugar,Día sin clase en el cole
+11-12,Niño,36-40,FP Grado Superior,NS/NC,En el colegio,Jugar,Visita a museos/teatro
+6-8,Niño,41-45,FP Grado Superior,2401-4500€,Al aire libre,Jugar,Fiesta al aire libre
+3-5,Niño,41-45,Universitarios,>4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,36-40,Universitarios,600-1200€,En la naturaleza,Jugar,Día sin clase en el cole
+3-5,Niña,41-45,FP Grado Medio,1201-2400€,Al aire libre,Jugar,Día sin clase en el cole
+9-10,Niña,41-45,FP Grado Superior,1201-2400€,En el colegio,Jugar,Día sin clase en el cole
+3-5,Niña,41-45,Secundarios,2401-4500€,En la calle,Jugar,Día sin clase en el cole
+6-8,Niña,41-45,Universitarios,>4500€,Al aire libre,Jugar,Fiesta al aire libre
+6-8,Niño,41-45,Secundarios,<600€,En la calle,Jugar,Día sin clase en el cole
+6-8,Niña,41-45,FP Grado Superior,<600€,En la calle,Jugar,Fiesta al aire libre
+11-12,Niña,30-35,Primarios,>4500€,En el colegio,Jugar,Fiesta al aire libre
+11-12,Niño,36-40,Secundarios,600-1200€,Al aire libre,Deportes,Gymkana o juego en la ciudad
+6-8,Niña,36-40,Universitarios,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+11-12,Niño,41-45,Secundarios,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+9-10,Niña,41-45,Secundarios,>4500€,En el parque,Leer cuentos/libros,Día sin clase en el cole
+6-8,Niña,36-40,Universitarios,600-1200€,En el parque,Jugar,Celebración en casa
+11-12,Niño,<30,Primarios,600-1200€,En la calle,Deportes,Gymkana o juego en la ciudad
+3-5,Niña,41-45,Secundarios,2401-4500€,Al aire libre,Jugar,Celebración en casa
+0-2,Niña,36-40,Universitarios,NS/NC,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+11-12,Niña,41-45,Universitarios,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+6-8,Niño,<30,Universitarios,1201-2400€,En el colegio,Jugar,Fiesta al aire libre
+11-12,Niña,41-45,Universitarios,2401-4500€,En casa,Jugar,Celebración en casa
+11-12,Niño,>45,Universitarios,NS/NC,En el parque,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,36-40,Secundarios,>4500€,Al aire libre,Jugar,Día sin clase en el cole
+11-12,Niño,41-45,Universitarios,NS/NC,En la naturaleza,Jugar,Fiesta al aire libre
+6-8,Niña,30-35,Universitarios,<600€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,41-45,Universitarios,600-1200€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,41-45,Universitarios,2401-4500€,En el parque,Jugar,Fiesta al aire libre
+11-12,Niña,36-40,Secundarios,>4500€,En el parque,Jugar,Fiesta al aire libre
+0-2,Niño,41-45,Universitarios,600-1200€,En la calle,Jugar,Fiesta al aire libre
+6-8,Niño,>45,Universitarios,600-1200€,En casa,Leer cuentos/libros,Fiesta al aire libre
+9-10,Niño,36-40,Universitarios,>4500€,En el colegio,Jugar,Celebración en casa
+9-10,Niño,<30,Secundarios,<600€,En casa,Jugar,Celebración en casa
+9-10,Niño,>45,Secundarios,1201-2400€,En el colegio,Jugar,Fiesta al aire libre
+0-2,Niño,41-45,Secundarios,2401-4500€,En el parque,Jugar,Celebración en casa
+3-5,Niño,>45,Universitarios,2401-4500€,Al aire libre,Deportes,Actividades virtuales
+3-5,Niño,41-45,Secundarios,>4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,41-45,Secundarios,1201-2400€,En el colegio,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,36-40,Universitarios,2401-4500€,Al aire libre,Jugar,Celebración en casa
+3-5,Niña,41-45,Primarios,2401-4500€,En el parque,Manualidades,Fiesta al aire libre
+11-12,Niña,>45,Universitarios,2401-4500€,En la naturaleza,Jugar,Día sin clase en el cole
+0-2,Niña,41-45,FP Grado Superior,2401-4500€,En la naturaleza,Bailar y música,Actividades virtuales
+11-12,Niño,36-40,Universitarios,600-1200€,En el colegio,Deportes,Día sin clase en el cole
+9-10,Niño,36-40,Universitarios,<600€,En casa,Jugar,Celebración en casa
+11-12,Niña,36-40,Universitarios,600-1200€,Al aire libre,Deportes,Celebración en casa
+3-5,Niño,36-40,Universitarios,600-1200€,En el colegio,Jugar,Visita a museos/teatro
+0-2,Niño,36-40,Sin estudios,2401-4500€,En la naturaleza,Manualidades,Día sin clase en el cole
+9-10,Niño,41-45,Secundarios,>4500€,En el colegio,Jugar,Fiesta al aire libre
+11-12,Niño,41-45,FP Grado Medio,2401-4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+9-10,Niño,36-40,Universitarios,>4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,41-45,Universitarios,1201-2400€,En casa,Leer cuentos/libros,Día sin clase en el cole
+9-10,Niña,30-35,Universitarios,1201-2400€,En el colegio,Jugar,Fiesta al aire libre
+9-10,Niño,30-35,Universitarios,1201-2400€,En casa,Jugar,Fiesta al aire libre
+9-10,Niño,36-40,Secundarios,600-1200€,En el colegio,Jugar,Día sin clase en el cole
+9-10,Niña,41-45,Universitarios,<600€,En la naturaleza,Jugar,Fiesta al aire libre
+11-12,Niño,36-40,Universitarios,2401-4500€,En la naturaleza,Jugar,Celebración en casa
+9-10,Niño,36-40,FP Grado Medio,NS/NC,En la naturaleza,Jugar,Celebración en casa
+0-2,Niña,36-40,Universitarios,600-1200€,En el parque,Jugar,Visita a museos/teatro
+6-8,Niño,41-45,Secundarios,<600€,En el colegio,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,<30,Universitarios,>4500€,En la naturaleza,Jugar,Visita a museos/teatro
+6-8,Niño,41-45,Universitarios,600-1200€,En el parque,Jugar,Actividades virtuales
+6-8,Niño,41-45,Secundarios,>4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,41-45,Universitarios,2401-4500€,Al aire libre,Deportes,Día sin clase en el cole
+3-5,Niña,>45,FP Grado Medio,NS/NC,En casa,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,<30,Universitarios,1201-2400€,Al aire libre,Deportes,Gymkana o juego en la ciudad
+11-12,Niña,30-35,Universitarios,2401-4500€,En la naturaleza,Leer cuentos/libros,Fiesta al aire libre
+11-12,Niña,>45,Sin estudios,1201-2400€,En el parque,Jugar,Fiesta al aire libre
+0-2,Niño,41-45,Universitarios,2401-4500€,En el parque,Jugar,Celebración en casa
+11-12,Niña,41-45,Universitarios,1201-2400€,En la naturaleza,Manualidades,Fiesta al aire libre
+6-8,Niño,41-45,FP Grado Superior,600-1200€,Al aire libre,Jugar,Día sin clase en el cole
+3-5,Niño,41-45,Secundarios,2401-4500€,En el colegio,Jugar,Actividades virtuales
+0-2,Niño,>45,Universitarios,2401-4500€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+6-8,Niño,>45,Universitarios,>4500€,En casa,Jugar,Visita a museos/teatro
+9-10,Niño,41-45,Secundarios,>4500€,Al aire libre,Manualidades,Día sin clase en el cole
+9-10,Niña,36-40,FP Grado Medio,2401-4500€,En casa,Jugar,Visita a museos/teatro
+0-2,Niño,>45,Secundarios,600-1200€,En la naturaleza,Jugar,Día sin clase en el cole
+0-2,Niño,30-35,Universitarios,>4500€,En casa,Jugar,Día sin clase en el cole
+6-8,Niño,36-40,Secundarios,2401-4500€,En el colegio,Jugar,Día sin clase en el cole
+3-5,Niña,>45,FP Grado Superior,>4500€,En el colegio,Jugar,Celebración en casa
+3-5,Niña,36-40,Universitarios,NS/NC,En casa,Jugar,Actividades virtuales
+3-5,Niña,36-40,Universitarios,<600€,En casa,Manualidades,Gymkana o juego en la ciudad
+11-12,Niña,30-35,FP Grado Superior,>4500€,En el parque,Jugar,Visita a museos/teatro
+11-12,Niña,>45,FP Grado Superior,<600€,En el parque,Manualidades,Fiesta al aire libre
+6-8,Niño,41-45,Universitarios,1201-2400€,En el parque,Jugar,Fiesta al aire libre
+11-12,Niña,41-45,Sin estudios,2401-4500€,En el parque,Jugar,Actividades virtuales
+3-5,Niña,36-40,Secundarios,600-1200€,En el parque,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,41-45,Universitarios,>4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,41-45,Secundarios,<600€,En casa,Jugar,Visita a museos/teatro
+9-10,Niño,36-40,Universitarios,600-1200€,Al aire libre,Jugar,Visita a museos/teatro
+11-12,Niño,36-40,Universitarios,2401-4500€,En la naturaleza,Leer cuentos/libros,Visita a museos/teatro
+9-10,Niño,36-40,FP Grado Medio,>4500€,Al aire libre,Leer cuentos/libros,Visita a museos/teatro
+3-5,Niña,>45,FP Grado Superior,NS/NC,En el parque,Jugar,Día sin clase en el cole
+9-10,Niño,41-45,Universitarios,2401-4500€,Al aire libre,Jugar,Actividades virtuales
+0-2,Niño,>45,Universitarios,2401-4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+11-12,Niña,36-40,Universitarios,1201-2400€,En la naturaleza,Jugar,Visita a museos/teatro
+6-8,Niño,41-45,Universitarios,<600€,En casa,Jugar,Fiesta al aire libre
+6-8,Niña,41-45,Secundarios,600-1200€,Al aire libre,Jugar,Fiesta al aire libre
+6-8,Niño,41-45,Universitarios,2401-4500€,En el colegio,Deportes,Fiesta al aire libre
+9-10,Niño,>45,FP Grado Superior,2401-4500€,En el colegio,Leer cuentos/libros,Gymkana o juego en la ciudad
+0-2,Niño,36-40,Universitarios,1201-2400€,En casa,Jugar,Día sin clase en el cole
+9-10,Niña,30-35,Primarios,>4500€,En la naturaleza,Jugar,Actividades virtuales
+3-5,Niño,41-45,Secundarios,2401-4500€,En el colegio,Jugar,Actividades virtuales
+9-10,Niño,41-45,Universitarios,<600€,En la naturaleza,Leer cuentos/libros,Día sin clase en el cole
+11-12,Niña,41-45,Universitarios,600-1200€,En casa,Jugar,Celebración en casa
+11-12,Niño,36-40,FP Grado Medio,>4500€,Al aire libre,Jugar,Fiesta al aire libre
+6-8,Niña,41-45,FP Grado Superior,>4500€,En el parque,Leer cuentos/libros,Gymkana o juego en la ciudad
+6-8,Niña,36-40,Universitarios,>4500€,En casa,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,36-40,Universitarios,600-1200€,En la naturaleza,Jugar,Actividades virtuales
+9-10,Niña,41-45,FP Grado Medio,NS/NC,En el colegio,Jugar,Celebración en casa
+3-5,Niño,41-45,Secundarios,600-1200€,En el colegio,Jugar,Fiesta al aire libre
+6-8,Niña,36-40,FP Grado Medio,<600€,En el parque,Jugar,Fiesta al aire libre
+3-5,Niño,36-40,Universitarios,NS/NC,En el colegio,Jugar,Día sin clase en el cole
+0-2,Niña,36-40,Universitarios,600-1200€,En la naturaleza,Jugar,Fiesta al aire libre
+9-10,Niño,36-40,Universitarios,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+0-2,Niña,41-45,Universitarios,600-1200€,En la naturaleza,Leer cuentos/libros,Día sin clase en el cole
+9-10,Niño,>45,FP Grado Superior,2401-4500€,En casa,Jugar,Celebración en casa
+3-5,Niño,36-40,Universitarios,NS/NC,Al aire libre,Jugar,Visita a museos/teatro
+0-2,Niño,41-45,Universitarios,1201-2400€,En el parque,Jugar,Gymkana o juego en la ciudad
+6-8,Niño,>45,Secundarios,2401-4500€,En el parque,Leer cuentos/libros,Día sin clase en el cole
+0-2,Niña,>45,Secundarios,600-1200€,En la naturaleza,Manualidades,Fiesta al aire libre
+3-5,Niño,36-40,Universitarios,2401-4500€,En el parque,Jugar,Actividades virtuales
+9-10,Niña,>45,Universitarios,1201-2400€,En el colegio,Jugar,Celebración en casa
+0-2,Niña,36-40,FP Grado Medio,600-1200€,En casa,Leer cuentos/libros,Actividades virtuales
+11-12,Niña,36-40,Universitarios,1201-2400€,En el parque,Jugar,Fiesta al aire libre
+0-2,Niño,30-35,Universitarios,600-1200€,En casa,Jugar,Celebración en casa
+3-5,Niño,41-45,FP Grado Medio,NS/NC,En la calle,Deportes,Día sin clase en el cole
+9-10,Niña,30-35,Primarios,1201-2400€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,36-40,Secundarios,600-1200€,Al aire libre,Bailar y música,Gymkana o juego en la ciudad
+0-2,Niño,36-40,Universitarios,1201-2400€,En la calle,Manualidades,Fiesta al aire libre
+3-5,Niña,41-45,Secundarios,1201-2400€,En la calle,Jugar,Visita a museos/teatro
+3-5,Niña,>45,FP Grado Superior,>4500€,Al aire libre,Deportes,Actividades virtuales
+11-12,Niña,36-40,Universitarios,NS/NC,Al aire libre,Leer cuentos/libros,Día sin clase en el cole
+3-5,Niño,>45,Universitarios,1201-2400€,Al aire libre,Jugar,Día sin clase en el cole
+9-10,Niña,>45,Secundarios,>4500€,En la calle,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,41-45,FP Grado Superior,2401-4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+6-8,Niño,30-35,Universitarios,600-1200€,En el colegio,Jugar,Fiesta al aire libre
+11-12,Niña,41-45,Universitarios,2401-4500€,En casa,Leer cuentos/libros,Visita a museos/teatro
+3-5,Niño,>45,Universitarios,2401-4500€,Al aire libre,Jugar,Visita a museos/teatro
+11-12,Niño,41-45,Secundarios,2401-4500€,En el colegio,Jugar,Celebración en casa
+0-2,Niño,36-40,Universitarios,>4500€,En el parque,Jugar,Actividades virtuales
+9-10,Niña,41-45,Universitarios,1201-2400€,En casa,Manualidades,Fiesta al aire libre
+6-8,Niña,41-45,Universitarios,NS/NC,En el parque,Jugar,Día sin clase en el cole
+3-5,Niña,41-45,Universitarios,>4500€,En la naturaleza,Jugar,Fiesta al aire libre
+9-10,Niña,30-35,FP Grado Superior,2401-4500€,En la naturaleza,Jugar,Fiesta al aire libre
+9-10,Niño,36-40,Secundarios,2401-4500€,Al aire libre,Jugar,Celebración en casa
+0-2,Niño,41-45,Universitarios,1201-2400€,Al aire libre,Jugar,Día sin clase en el cole
+0-2,Niño,>45,Universitarios,NS/NC,En el parque,Jugar,Gymkana o juego en la ciudad
+9-10,Niño,30-35,Universitarios,2401-4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+9-10,Niño,>45,FP Grado Superior,<600€,En la naturaleza,Jugar,Visita a museos/teatro
+11-12,Niña,36-40,Universitarios,1201-2400€,En la naturaleza,Deportes,Gymkana o juego en la ciudad
+9-10,Niño,41-45,Universitarios,2401-4500€,En el colegio,Jugar,Celebración en casa
+11-12,Niño,41-45,Secundarios,<600€,En el colegio,Jugar,Celebración en casa
+9-10,Niño,>45,Universitarios,<600€,En el colegio,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,>45,Universitarios,1201-2400€,En casa,Jugar,Fiesta al aire libre
+0-2,Niña,36-40,Universitarios,1201-2400€,En el parque,Jugar,Actividades virtuales
+9-10,Niño,>45,Universitarios,1201-2400€,En el parque,Jugar,Fiesta al aire libre
+9-10,Niño,30-35,Universitarios,600-1200€,En el parque,Jugar,Visita a museos/teatro
+0-2,Niña,41-45,FP Grado Medio,600-1200€,En el colegio,Jugar,Día sin clase en el cole
+3-5,Niño,41-45,FP Grado Superior,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+11-12,Niño,41-45,Universitarios,2401-4500€,En el parque,Leer cuentos/libros,Actividades virtuales
+6-8,Niño,36-40,Universitarios,600-1200€,Al aire libre,Jugar,Actividades virtuales
+6-8,Niña,>45,Universitarios,1201-2400€,En la naturaleza,Jugar,Visita a museos/teatro
+6-8,Niña,36-40,Universitarios,2401-4500€,Al aire libre,Jugar,Celebración en casa
+3-5,Niña,30-35,Secundarios,<600€,Al aire libre,Jugar,Visita a museos/teatro
+3-5,Niño,41-45,Universitarios,600-1200€,En el parque,Jugar,Actividades virtuales
+3-5,Niña,41-45,FP Grado Medio,<600€,Al aire libre,Jugar,Actividades virtuales
+0-2,Niño,>45,Secundarios,>4500€,En el colegio,Jugar,Fiesta al aire libre
+9-10,Niño,36-40,Secundarios,>4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+6-8,Niño,30-35,FP Grado Superior,>4500€,En el parque,Jugar,Visita a museos/teatro
+11-12,Niño,>45,FP Grado Medio,>4500€,En el colegio,Deportes,Gymkana o juego en la ciudad
+11-12,Niña,41-45,FP Grado Medio,2401-4500€,Al aire libre,Jugar,Fiesta al aire libre
+3-5,Niña,36-40,Secundarios,2401-4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,41-45,FP Grado Medio,2401-4500€,En casa,Manualidades,Fiesta al aire libre
+6-8,Niña,41-45,Universitarios,<600€,En el parque,Jugar,Fiesta al aire libre
+11-12,Niña,41-45,Universitarios,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+3-5,Niño,41-45,FP Grado Superior,>4500€,Al aire libre,Jugar,Actividades virtuales
+9-10,Niño,>45,Universitarios,2401-4500€,En el colegio,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,>45,Universitarios,1201-2400€,En el colegio,Jugar,Fiesta al aire libre
+3-5,Niño,41-45,Universitarios,600-1200€,En el colegio,Leer cuentos/libros,Día sin clase en el cole
+0-2,Niña,30-35,FP Grado Medio,2401-4500€,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niño,>45,Universitarios,2401-4500€,Al aire libre,Jugar,Día sin clase en el cole
+9-10,Niño,41-45,Secundarios,>4500€,En el parque,Jugar,Celebración en casa
+3-5,Niño,41-45,Secundarios,1201-2400€,En la naturaleza,Leer cuentos/libros,Día sin clase en el cole
+9-10,Niño,36-40,FP Grado Superior,>4500€,En la calle,Jugar,Visita a museos/teatro
+3-5,Niño,>45,Universitarios,2401-4500€,Al aire libre,Jugar,Día sin clase en el cole
+9-10,Niña,41-45,Secundarios,>4500€,En el colegio,Jugar,Día sin clase en el cole
+0-2,Niño,30-35,Secundarios,2401-4500€,Al aire libre,Jugar,Día sin clase en el cole
+11-12,Niña,36-40,Secundarios,2401-4500€,Al aire libre,Jugar,Día sin clase en el cole
+3-5,Niño,>45,Universitarios,2401-4500€,En el parque,Jugar,Celebración en casa
+3-5,Niño,30-35,Universitarios,>4500€,Al aire libre,Deportes,Actividades virtuales
+0-2,Niño,>45,FP Grado Medio,NS/NC,En la naturaleza,Jugar,Fiesta al aire libre
+0-2,Niña,41-45,Universitarios,<600€,En el colegio,Jugar,Día sin clase en el cole
+6-8,Niño,41-45,Universitarios,<600€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,36-40,Universitarios,NS/NC,Al aire libre,Jugar,Fiesta al aire libre
+11-12,Niño,36-40,Secundarios,2401-4500€,En la naturaleza,Jugar,Visita a museos/teatro
+0-2,Niña,>45,Universitarios,2401-4500€,Al aire libre,Jugar,Día sin clase en el cole
+3-5,Niño,36-40,FP Grado Medio,2401-4500€,En el colegio,Manualidades,Celebración en casa
+3-5,Niña,41-45,Universitarios,<600€,En el parque,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,36-40,Primarios,>4500€,En el colegio,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,30-35,FP Grado Superior,>4500€,En el parque,Jugar,Fiesta al aire libre
+6-8,Niño,<30,FP Grado Superior,1201-2400€,Al aire libre,Jugar,Día sin clase en el cole
+6-8,Niño,41-45,Universitarios,1201-2400€,Al aire libre,Jugar,Celebración en casa
+6-8,Niño,>45,Secundarios,>4500€,Al aire libre,Manualidades,Día sin clase en el cole
+6-8,Niña,36-40,Universitarios,<600€,En el parque,Bailar y música,Celebración en casa
+6-8,Niña,36-40,Secundarios,>4500€,En la naturaleza,Jugar,Día sin clase en el cole
+0-2,Niña,36-40,Universitarios,600-1200€,En el parque,Jugar,Visita a museos/teatro
+6-8,Niño,41-45,Universitarios,2401-4500€,Al aire libre,Manualidades,Día sin clase en el cole
+11-12,Niño,36-40,Universitarios,NS/NC,En el colegio,Jugar,Actividades virtuales
+6-8,Niño,>45,Universitarios,2401-4500€,En el colegio,Jugar,Actividades virtuales
+9-10,Niña,41-45,Universitarios,1201-2400€,En la calle,Jugar,Visita a museos/teatro
+3-5,Niña,41-45,FP Grado Superior,2401-4500€,En el colegio,Leer cuentos/libros,Fiesta al aire libre
+9-10,Niña,30-35,Universitarios,1201-2400€,En el colegio,Jugar,Celebración en casa
+9-10,Niño,>45,FP Grado Medio,600-1200€,En el colegio,Leer cuentos/libros,Gymkana o juego en la ciudad
+6-8,Niña,36-40,Universitarios,NS/NC,En casa,Leer cuentos/libros,Día sin clase en el cole
+11-12,Niña,30-35,Universitarios,>4500€,En casa,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,41-45,FP Grado Superior,2401-4500€,En el parque,Leer cuentos/libros,Día sin clase en el cole
+0-2,Niña,41-45,FP Grado Medio,1201-2400€,Al aire libre,Leer cuentos/libros,Visita a museos/teatro
+9-10,Niña,36-40,Universitarios,<600€,En el parque,Jugar,Día sin clase en el cole
+11-12,Niña,36-40,Universitarios,<600€,En el colegio,Jugar,Fiesta al aire libre
+0-2,Niña,41-45,Universitarios,2401-4500€,En la naturaleza,Jugar,Fiesta al aire libre
+3-5,Niño,36-40,Universitarios,>4500€,En el colegio,Jugar,Fiesta al aire libre
+0-2,Niño,>45,Universitarios,2401-4500€,Al aire libre,Jugar,Celebración en casa
+3-5,Niña,41-45,Universitarios,>4500€,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niño,36-40,Secundarios,<600€,En la naturaleza,Jugar,Fiesta al aire libre
+6-8,Niña,41-45,Secundarios,1201-2400€,En el parque,Manualidades,Gymkana o juego en la ciudad
+3-5,Niña,36-40,Universitarios,600-1200€,En la naturaleza,Jugar,Visita a museos/teatro
+3-5,Niña,41-45,Universitarios,1201-2400€,En el parque,Jugar,Celebración en casa
+0-2,Niña,41-45,Universitarios,<600€,En casa,Jugar,Visita a museos/teatro
+3-5,Niño,36-40,FP Grado Superior,NS/NC,En casa,Jugar,Día sin clase en el cole
+9-10,Niño,41-45,Secundarios,600-1200€,En el colegio,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,>45,Universitarios,NS/NC,En la naturaleza,Jugar,Día sin clase en el cole
+11-12,Niño,36-40,Secundarios,1201-2400€,En casa,Jugar,Día sin clase en el cole
+0-2,Niño,>45,FP Grado Medio,NS/NC,En el colegio,Leer cuentos/libros,Día sin clase en el cole
+11-12,Niño,36-40,Universitarios,2401-4500€,En el parque,Leer cuentos/libros,Celebración en casa
+9-10,Niña,30-35,Secundarios,NS/NC,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niña,36-40,Universitarios,<600€,Al aire libre,Leer cuentos/libros,Fiesta al aire libre
+6-8,Niño,36-40,Universitarios,>4500€,En el parque,Leer cuentos/libros,Actividades virtuales
+3-5,Niño,36-40,Universitarios,NS/NC,En casa,Jugar,Celebración en casa
+3-5,Niña,<30,Secundarios,600-1200€,En la naturaleza,Bailar y música,Gymkana o juego en la ciudad
+0-2,Niño,>45,FP Grado Superior,<600€,En el parque,Manualidades,Gymkana o juego en la ciudad
+3-5,Niño,>45,Secundarios,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+3-5,Niño,41-45,Universitarios,NS/NC,En el parque,Jugar,Día sin clase en el cole
+6-8,Niña,30-35,Universitarios,2401-4500€,En el parque,Jugar,Fiesta al aire libre
+9-10,Niño,30-35,Universitarios,2401-4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,30-35,Secundarios,600-1200€,En la naturaleza,Leer cuentos/libros,Actividades virtuales
+0-2,Niño,41-45,Universitarios,<600€,En el parque,Jugar,Celebración en casa
+11-12,Niña,>45,FP Grado Superior,>4500€,En el colegio,Leer cuentos/libros,Fiesta al aire libre
+11-12,Niño,36-40,Secundarios,<600€,En el parque,Leer cuentos/libros,Gymkana o juego en la ciudad
+9-10,Niño,30-35,Universitarios,2401-4500€,En la calle,Jugar,Día sin clase en el cole
+11-12,Niña,41-45,Universitarios,NS/NC,En el parque,Jugar,Celebración en casa
+6-8,Niña,36-40,Sin estudios,600-1200€,Al aire libre,Jugar,Fiesta al aire libre
+11-12,Niña,36-40,Secundarios,2401-4500€,Al aire libre,Jugar,Día sin clase en el cole
+0-2,Niña,41-45,Universitarios,<600€,En el colegio,Jugar,Día sin clase en el cole
+3-5,Niña,41-45,Secundarios,2401-4500€,En el colegio,Jugar,Día sin clase en el cole
+3-5,Niña,30-35,Secundarios,600-1200€,En el parque,Jugar,Celebración en casa
+0-2,Niña,30-35,Universitarios,>4500€,En el parque,Manualidades,Día sin clase en el cole
+0-2,Niño,>45,Universitarios,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+9-10,Niño,36-40,Universitarios,1201-2400€,En el colegio,Jugar,Fiesta al aire libre
+9-10,Niño,30-35,Universitarios,2401-4500€,En el colegio,Jugar,Fiesta al aire libre
+6-8,Niña,36-40,Universitarios,600-1200€,Al aire libre,Leer cuentos/libros,Actividades virtuales
+0-2,Niño,30-35,Secundarios,>4500€,Al aire libre,Jugar,Actividades virtuales
+11-12,Niño,36-40,Universitarios,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+9-10,Niña,41-45,FP Grado Superior,2401-4500€,Al aire libre,Deportes,Día sin clase en el cole
+3-5,Niña,36-40,FP Grado Medio,600-1200€,En el colegio,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,36-40,Universitarios,2401-4500€,Al aire libre,Jugar,Fiesta al aire libre
+3-5,Niño,41-45,FP Grado Medio,600-1200€,En el parque,Jugar,Fiesta al aire libre
+3-5,Niña,41-45,Secundarios,1201-2400€,Al aire libre,Leer cuentos/libros,Celebración en casa
+11-12,Niño,>45,Sin estudios,600-1200€,En la calle,Jugar,Día sin clase en el cole
+3-5,Niño,>45,Universitarios,>4500€,En casa,Jugar,Fiesta al aire libre
+6-8,Niño,<30,Universitarios,600-1200€,Al aire libre,Jugar,Día sin clase en el cole
+11-12,Niño,41-45,Universitarios,>4500€,En el parque,Bailar y música,Celebración en casa
+9-10,Niño,41-45,Universitarios,>4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,>45,FP Grado Medio,600-1200€,En el colegio,Jugar,Celebración en casa
+0-2,Niño,41-45,FP Grado Medio,2401-4500€,Al aire libre,Deportes,Día sin clase en el cole
+0-2,Niña,>45,Secundarios,<600€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+9-10,Niña,41-45,Secundarios,1201-2400€,En el colegio,Bailar y música,Celebración en casa
+6-8,Niño,36-40,FP Grado Medio,>4500€,En casa,Deportes,Día sin clase en el cole
+0-2,Niño,41-45,Universitarios,2401-4500€,Al aire libre,Manualidades,Celebración en casa
+11-12,Niño,>45,Universitarios,2401-4500€,En la naturaleza,Jugar,Fiesta al aire libre
+6-8,Niña,>45,Universitarios,600-1200€,En la naturaleza,Jugar,Fiesta al aire libre
+3-5,Niño,30-35,Secundarios,1201-2400€,Al aire libre,Leer cuentos/libros,Gymkana o juego en la ciudad
+6-8,Niño,41-45,Universitarios,600-1200€,En el parque,Bailar y música,Fiesta al aire libre
+9-10,Niño,36-40,FP Grado Medio,>4500€,Al aire libre,Jugar,Fiesta al aire libre
+0-2,Niña,<30,Secundarios,2401-4500€,En el parque,Leer cuentos/libros,Fiesta al aire libre
+3-5,Niña,36-40,Universitarios,2401-4500€,En el parque,Jugar,Celebración en casa
+11-12,Niño,36-40,Universitarios,600-1200€,En el colegio,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,>45,Secundarios,1201-2400€,En el parque,Jugar,Día sin clase en el cole
+6-8,Niña,36-40,Universitarios,1201-2400€,En la calle,Leer cuentos/libros,Día sin clase en el cole
+6-8,Niña,>45,FP Grado Medio,<600€,Al aire libre,Jugar,Día sin clase en el cole
+0-2,Niña,<30,Universitarios,1201-2400€,En la calle,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,36-40,Universitarios,>4500€,Al aire libre,Bailar y música,Celebración en casa
+6-8,Niña,36-40,Universitarios,>4500€,En la naturaleza,Jugar,Celebración en casa
+3-5,Niña,36-40,Secundarios,2401-4500€,En el parque,Jugar,Día sin clase en el cole
+0-2,Niño,30-35,FP Grado Superior,1201-2400€,Al aire libre,Jugar,Visita a museos/teatro
+11-12,Niño,36-40,Universitarios,<600€,En casa,Jugar,Fiesta al aire libre
+11-12,Niño,41-45,Universitarios,>4500€,En el parque,Jugar,Visita a museos/teatro
+9-10,Niña,36-40,FP Grado Medio,<600€,En la naturaleza,Deportes,Celebración en casa
+11-12,Niña,36-40,Universitarios,NS/NC,En el colegio,Jugar,Celebración en casa
+3-5,Niño,36-40,Universitarios,2401-4500€,En el colegio,Leer cuentos/libros,Día sin clase en el cole
+11-12,Niña,>45,Universitarios,1201-2400€,En el colegio,Jugar,Día sin clase en el cole
+0-2,Niño,>45,Universitarios,NS/NC,En la naturaleza,Jugar,Día sin clase en el cole
+11-12,Niño,41-45,Universitarios,<600€,Al aire libre,Jugar,Celebración en casa
+11-12,Niña,36-40,Universitarios,2401-4500€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+9-10,Niño,30-35,Universitarios,2401-4500€,En casa,Jugar,Celebración en casa
+11-12,Niño,>45,FP Grado Medio,600-1200€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+6-8,Niña,30-35,FP Grado Superior,1201-2400€,Al aire libre,Jugar,Actividades virtuales
+3-5,Niña,36-40,FP Grado Medio,2401-4500€,En la naturaleza,Jugar,Día sin clase en el cole
+6-8,Niño,36-40,Universitarios,>4500€,En el parque,Jugar,Día sin clase en el cole
+6-8,Niña,36-40,FP Grado Medio,<600€,En el parque,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,30-35,Universitarios,NS/NC,Al aire libre,Deportes,Gymkana o juego en la ciudad
+9-10,Niño,41-45,FP Grado Medio,600-1200€,En el colegio,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,30-35,Secundarios,600-1200€,Al aire libre,Jugar,Celebración en casa
+0-2,Niña,41-45,Universitarios,600-1200€,En el colegio,Deportes,Día sin clase en el cole
+9-10,Niño,30-35,Secundarios,<600€,En la naturaleza,Leer cuentos/libros,Gymkana o juego en la ciudad
+11-12,Niña,30-35,Secundarios,600-1200€,En el parque,Jugar,Actividades virtuales
+11-12,Niña,>45,Secundarios,NS/NC,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niña,36-40,Universitarios,1201-2400€,En la calle,Jugar,Visita a museos/teatro
+6-8,Niño,>45,Universitarios,600-1200€,En la naturaleza,Jugar,Visita a museos/teatro
+11-12,Niña,41-45,Universitarios,600-1200€,En casa,Leer cuentos/libros,Día sin clase en el cole
+9-10,Niño,30-35,Universitarios,>4500€,En el parque,Leer cuentos/libros,Gymkana o juego en la ciudad
+0-2,Niño,>45,Universitarios,>4500€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+6-8,Niño,36-40,FP Grado Medio,600-1200€,Al aire libre,Bailar y música,Celebración en casa
+9-10,Niño,>45,FP Grado Medio,<600€,Al aire libre,Jugar,Fiesta al aire libre
+3-5,Niña,36-40,Universitarios,600-1200€,Al aire libre,Jugar,Fiesta al aire libre
+9-10,Niño,>45,Secundarios,<600€,En el parque,Manualidades,Celebración en casa
+9-10,Niño,<30,Primarios,600-1200€,En casa,Jugar,Día sin clase en el cole
+0-2,Niña,41-45,Universitarios,1201-2400€,En el parque,Leer cuentos/libros,Actividades virtuales
+6-8,Niño,41-45,Universitarios,600-1200€,En la naturaleza,Deportes,Celebración en casa
+9-10,Niña,>45,Secundarios,2401-4500€,En la naturaleza,Jugar,Fiesta al aire libre
+6-8,Niño,>45,Secundarios,600-1200€,En el colegio,Jugar,Actividades virtuales
+0-2,Niña,>45,Universitarios,NS/NC,En el parque,Jugar,Celebración en casa
+0-2,Niña,>45,Universitarios,NS/NC,En el colegio,Jugar,Día sin clase en el cole
+3-5,Niño,36-40,Universitarios,2401-4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,36-40,Universitarios,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+3-5,Niño,36-40,Universitarios,1201-2400€,En la calle,Leer cuentos/libros,Día sin clase en el cole
+9-10,Niña,36-40,Universitarios,1201-2400€,Al aire libre,Jugar,Visita a museos/teatro
+3-5,Niño,36-40,Universitarios,>4500€,Al aire libre,Jugar,Día sin clase en el cole
+3-5,Niño,41-45,Secundarios,1201-2400€,En casa,Jugar,Celebración en casa
+11-12,Niño,30-35,Universitarios,>4500€,En el parque,Leer cuentos/libros,Fiesta al aire libre
+9-10,Niño,41-45,Secundarios,NS/NC,En la naturaleza,Jugar,Día sin clase en el cole
+0-2,Niño,30-35,Secundarios,1201-2400€,En el parque,Jugar,Visita a museos/teatro
+6-8,Niña,36-40,Universitarios,2401-4500€,En el parque,Leer cuentos/libros,Actividades virtuales
+0-2,Niño,41-45,FP Grado Superior,<600€,En el parque,Jugar,Fiesta al aire libre
+6-8,Niño,41-45,Universitarios,600-1200€,En el parque,Jugar,Día sin clase en el cole
+9-10,Niña,41-45,Secundarios,1201-2400€,En el parque,Manualidades,Día sin clase en el cole
+0-2,Niña,41-45,Universitarios,600-1200€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,30-35,Universitarios,>4500€,En el colegio,Bailar y música,Gymkana o juego en la ciudad
+3-5,Niño,41-45,Universitarios,600-1200€,En la calle,Jugar,Fiesta al aire libre
+11-12,Niño,30-35,Secundarios,1201-2400€,Al aire libre,Jugar,Visita a museos/teatro
+11-12,Niña,36-40,FP Grado Superior,2401-4500€,En el colegio,Manualidades,Fiesta al aire libre
+0-2,Niño,36-40,Universitarios,2401-4500€,En el colegio,Jugar,Actividades virtuales
+9-10,Niña,30-35,Secundarios,1201-2400€,En casa,Leer cuentos/libros,Celebración en casa
+3-5,Niña,36-40,Universitarios,>4500€,Al aire libre,Manualidades,Fiesta al aire libre
+3-5,Niña,>45,Universitarios,2401-4500€,En el colegio,Manualidades,Actividades virtuales
+9-10,Niño,>45,Secundarios,1201-2400€,En casa,Bailar y música,Fiesta al aire libre
+11-12,Niño,36-40,Secundarios,<600€,En el parque,Jugar,Actividades virtuales
+11-12,Niño,30-35,Secundarios,1201-2400€,En casa,Leer cuentos/libros,Gymkana o juego en la ciudad
+6-8,Niño,36-40,Universitarios,>4500€,Al aire libre,Jugar,Día sin clase en el cole
+3-5,Niña,36-40,Secundarios,2401-4500€,En la naturaleza,Jugar,Actividades virtuales
+9-10,Niña,>45,FP Grado Superior,>4500€,En casa,Manualidades,Fiesta al aire libre
+3-5,Niña,30-35,Universitarios,2401-4500€,En la naturaleza,Jugar,Actividades virtuales
+6-8,Niña,41-45,Universitarios,600-1200€,En el parque,Jugar,Visita a museos/teatro
+3-5,Niño,30-35,Secundarios,<600€,Al aire libre,Jugar,Día sin clase en el cole
+9-10,Niño,>45,Secundarios,1201-2400€,En casa,Jugar,Fiesta al aire libre
+3-5,Niño,36-40,Universitarios,2401-4500€,En el colegio,Bailar y música,Gymkana o juego en la ciudad
+0-2,Niña,41-45,Universitarios,>4500€,Al aire libre,Jugar,Fiesta al aire libre
+11-12,Niña,36-40,Universitarios,600-1200€,En la naturaleza,Jugar,Celebración en casa
+0-2,Niña,41-45,Primarios,2401-4500€,En el colegio,Manualidades,Gymkana o juego en la ciudad
+6-8,Niño,36-40,FP Grado Medio,1201-2400€,Al aire libre,Jugar,Fiesta al aire libre
+3-5,Niño,30-35,Universitarios,1201-2400€,Al aire libre,Jugar,Celebración en casa
+0-2,Niña,>45,FP Grado Medio,600-1200€,Al aire libre,Jugar,Día sin clase en el cole
+0-2,Niño,>45,Universitarios,600-1200€,En el colegio,Jugar,Actividades virtuales
+0-2,Niña,>45,Universitarios,600-1200€,En el colegio,Jugar,Fiesta al aire libre
+11-12,Niña,41-45,Secundarios,<600€,En el colegio,Manualidades,Visita a museos/teatro
+3-5,Niña,41-45,Universitarios,600-1200€,En la naturaleza,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,30-35,Universitarios,<600€,En casa,Deportes,Día sin clase en el cole
+6-8,Niño,36-40,Secundarios,2401-4500€,En el colegio,Leer cuentos/libros,Fiesta al aire libre
+6-8,Niño,36-40,Universitarios,1201-2400€,Al aire libre,Jugar,Día sin clase en el cole
+6-8,Niño,41-45,FP Grado Medio,NS/NC,En la naturaleza,Jugar,Visita a museos/teatro
+6-8,Niño,36-40,FP Grado Superior,600-1200€,En el parque,Jugar,Día sin clase en el cole
+9-10,Niña,30-35,Secundarios,1201-2400€,En el colegio,Jugar,Celebración en casa
+3-5,Niña,41-45,Universitarios,1201-2400€,En la naturaleza,Deportes,Fiesta al aire libre
+3-5,Niño,>45,Universitarios,<600€,En el parque,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,36-40,Universitarios,>4500€,En casa,Jugar,Día sin clase en el cole
+11-12,Niño,30-35,Secundarios,<600€,Al aire libre,Jugar,Fiesta al aire libre
+11-12,Niño,36-40,Universitarios,NS/NC,En la naturaleza,Jugar,Fiesta al aire libre
+6-8,Niña,36-40,FP Grado Superior,>4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+9-10,Niño,36-40,Universitarios,2401-4500€,En casa,Jugar,Visita a museos/teatro
+6-8,Niño,41-45,Universitarios,2401-4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+6-8,Niño,41-45,Secundarios,2401-4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,41-45,Secundarios,1201-2400€,En el parque,Jugar,Fiesta al aire libre
+6-8,Niña,36-40,Universitarios,2401-4500€,En el parque,Leer cuentos/libros,Día sin clase en el cole
+0-2,Niño,>45,FP Grado Medio,<600€,Al aire libre,Jugar,Visita a museos/teatro
+3-5,Niña,36-40,Universitarios,<600€,En el colegio,Jugar,Gymkana o juego en la ciudad
+11-12,Niña,41-45,Secundarios,1201-2400€,En el parque,Jugar,Día sin clase en el cole
+3-5,Niña,41-45,FP Grado Medio,2401-4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,36-40,Universitarios,>4500€,En el parque,Deportes,Fiesta al aire libre
+0-2,Niña,30-35,Universitarios,600-1200€,En la naturaleza,Jugar,Fiesta al aire libre
+11-12,Niña,>45,Universitarios,>4500€,En la naturaleza,Jugar,Celebración en casa
+6-8,Niña,36-40,Secundarios,600-1200€,En la naturaleza,Manualidades,Día sin clase en el cole
+6-8,Niña,41-45,FP Grado Superior,1201-2400€,En la naturaleza,Leer cuentos/libros,Gymkana o juego en la ciudad
+11-12,Niña,<30,Secundarios,1201-2400€,En el parque,Jugar,Actividades virtuales
+11-12,Niño,41-45,Universitarios,1201-2400€,Al aire libre,Jugar,Día sin clase en el cole
+3-5,Niña,36-40,Universitarios,600-1200€,En el parque,Leer cuentos/libros,Actividades virtuales
+9-10,Niña,30-35,Universitarios,2401-4500€,En casa,Jugar,Día sin clase en el cole
+9-10,Niña,41-45,Universitarios,>4500€,En la calle,Manualidades,Actividades virtuales
+9-10,Niño,36-40,FP Grado Superior,1201-2400€,En el colegio,Leer cuentos/libros,Gymkana o juego en la ciudad
+0-2,Niña,36-40,Universitarios,2401-4500€,Al aire libre,Leer cuentos/libros,Fiesta al aire libre
+11-12,Niña,30-35,Universitarios,>4500€,Al aire libre,Jugar,Día sin clase en el cole
+6-8,Niño,30-35,Universitarios,2401-4500€,En el parque,Leer cuentos/libros,Día sin clase en el cole
+3-5,Niña,36-40,Sin estudios,2401-4500€,En el colegio,Jugar,Día sin clase en el cole
+6-8,Niña,30-35,FP Grado Medio,600-1200€,Al aire libre,Manualidades,Día sin clase en el cole
+0-2,Niña,>45,FP Grado Superior,>4500€,En la calle,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,<30,Secundarios,2401-4500€,En el parque,Jugar,Fiesta al aire libre
+9-10,Niño,41-45,Secundarios,600-1200€,En casa,Jugar,Fiesta al aire libre
+0-2,Niña,30-35,Primarios,600-1200€,En la naturaleza,Jugar,Celebración en casa
+6-8,Niño,36-40,Universitarios,>4500€,En la naturaleza,Jugar,Celebración en casa
+6-8,Niña,>45,FP Grado Medio,<600€,En el colegio,Deportes,Fiesta al aire libre
+0-2,Niño,30-35,Secundarios,NS/NC,En el colegio,Jugar,Gymkana o juego en la ciudad
+11-12,Niña,>45,Secundarios,600-1200€,En el colegio,Manualidades,Fiesta al aire libre
+3-5,Niño,36-40,Universitarios,>4500€,En el colegio,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,41-45,Universitarios,1201-2400€,En el colegio,Jugar,Actividades virtuales
+3-5,Niño,41-45,Universitarios,2401-4500€,En la calle,Jugar,Día sin clase en el cole
+3-5,Niño,>45,FP Grado Superior,>4500€,En la naturaleza,Jugar,Día sin clase en el cole
+0-2,Niño,41-45,Universitarios,1201-2400€,En la naturaleza,Deportes,Celebración en casa
+9-10,Niño,41-45,Secundarios,2401-4500€,En casa,Jugar,Día sin clase en el cole
+11-12,Niña,36-40,Secundarios,<600€,Al aire libre,Jugar,Actividades virtuales
+3-5,Niña,30-35,FP Grado Medio,<600€,Al aire libre,Jugar,Actividades virtuales
+9-10,Niño,>45,Secundarios,600-1200€,En el colegio,Deportes,Día sin clase en el cole
+9-10,Niña,36-40,FP Grado Superior,2401-4500€,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niño,36-40,Universitarios,600-1200€,En casa,Jugar,Fiesta al aire libre
+6-8,Niña,41-45,Universitarios,600-1200€,En el parque,Jugar,Fiesta al aire libre
+3-5,Niña,36-40,FP Grado Superior,1201-2400€,En el colegio,Jugar,Gymkana o juego en la ciudad
+3-5,Niña,>45,Universitarios,2401-4500€,En el colegio,Jugar,Celebración en casa
+9-10,Niño,41-45,Primarios,>4500€,Al aire libre,Manualidades,Fiesta al aire libre
+11-12,Niña,41-45,Secundarios,600-1200€,En el colegio,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,>45,Universitarios,<600€,En casa,Jugar,Día sin clase en el cole
+3-5,Niña,30-35,Universitarios,NS/NC,Al aire libre,Jugar,Celebración en casa
+11-12,Niño,36-40,Primarios,600-1200€,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niña,41-45,FP Grado Superior,>4500€,En el colegio,Jugar,Actividades virtuales
+11-12,Niña,36-40,Universitarios,>4500€,Al aire libre,Bailar y música,Gymkana o juego en la ciudad
+9-10,Niña,41-45,Universitarios,>4500€,Al aire libre,Manualidades,Fiesta al aire libre
+3-5,Niño,>45,Universitarios,600-1200€,En la calle,Manualidades,Actividades virtuales
+6-8,Niña,36-40,FP Grado Medio,>4500€,En el parque,Manualidades,Actividades virtuales
+9-10,Niño,36-40,Secundarios,>4500€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,>45,Universitarios,2401-4500€,Al aire libre,Jugar,Día sin clase en el cole
+6-8,Niño,36-40,Secundarios,1201-2400€,En la naturaleza,Jugar,Celebración en casa
+9-10,Niño,41-45,Universitarios,600-1200€,En el colegio,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,36-40,Universitarios,600-1200€,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niño,>45,FP Grado Medio,2401-4500€,Al aire libre,Jugar,Visita a museos/teatro
+6-8,Niño,41-45,Universitarios,2401-4500€,En casa,Jugar,Día sin clase en el cole
+11-12,Niño,41-45,Universitarios,1201-2400€,En el parque,Manualidades,Día sin clase en el cole
+0-2,Niño,41-45,FP Grado Medio,2401-4500€,En el parque,Leer cuentos/libros,Día sin clase en el cole
+3-5,Niña,36-40,Universitarios,1201-2400€,En el colegio,Deportes,Fiesta al aire libre
+9-10,Niña,36-40,Universitarios,2401-4500€,En el parque,Jugar,Celebración en casa
+3-5,Niño,>45,Universitarios,NS/NC,En casa,Jugar,Gymkana o juego en la ciudad
+9-10,Niño,36-40,Primarios,600-1200€,En casa,Jugar,Gymkana o juego en la ciudad
+9-10,Niño,41-45,Universitarios,1201-2400€,En el parque,Jugar,Gymkana o juego en la ciudad
+0-2,Niño,>45,Universitarios,600-1200€,En casa,Jugar,Celebración en casa
+6-8,Niña,41-45,Secundarios,2401-4500€,En la naturaleza,Jugar,Día sin clase en el cole
+6-8,Niña,41-45,Secundarios,>4500€,En casa,Jugar,Visita a museos/teatro
+3-5,Niño,41-45,Universitarios,NS/NC,En el parque,Jugar,Día sin clase en el cole
+11-12,Niño,>45,Primarios,600-1200€,En el colegio,Jugar,Visita a museos/teatro
+11-12,Niño,36-40,Universitarios,NS/NC,En el parque,Jugar,Día sin clase en el cole
+9-10,Niña,30-35,Universitarios,<600€,En la naturaleza,Jugar,Celebración en casa
+9-10,Niña,36-40,Universitarios,2401-4500€,Al aire libre,Jugar,Día sin clase en el cole
+6-8,Niño,41-45,Sin estudios,<600€,En el colegio,Jugar,Día sin clase en el cole
+11-12,Niño,36-40,Universitarios,>4500€,En el parque,Jugar,Actividades virtuales
+9-10,Niña,41-45,FP Grado Superior,2401-4500€,En el parque,Jugar,Actividades virtuales
+9-10,Niña,36-40,Universitarios,2401-4500€,En la naturaleza,Leer cuentos/libros,Gymkana o juego en la ciudad
+11-12,Niño,41-45,Universitarios,>4500€,En casa,Leer cuentos/libros,Celebración en casa
+3-5,Niño,36-40,Universitarios,600-1200€,En el colegio,Jugar,Fiesta al aire libre
+11-12,Niño,41-45,Universitarios,<600€,En casa,Jugar,Actividades virtuales
+0-2,Niña,41-45,Universitarios,>4500€,En el parque,Jugar,Gymkana o juego en la ciudad
+3-5,Niño,36-40,FP Grado Superior,1201-2400€,En el colegio,Jugar,Fiesta al aire libre
+3-5,Niño,36-40,Universitarios,600-1200€,En el parque,Jugar,Fiesta al aire libre
+11-12,Niña,41-45,Universitarios,1201-2400€,Al aire libre,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,41-45,FP Grado Medio,2401-4500€,En el colegio,Jugar,Actividades virtuales
+9-10,Niña,36-40,Secundarios,<600€,En la naturaleza,Jugar,Día sin clase en el cole
+9-10,Niño,>45,Universitarios,600-1200€,En el colegio,Leer cuentos/libros,Día sin clase en el cole
+6-8,Niño,41-45,FP Grado Superior,<600€,En la naturaleza,Jugar,Fiesta al aire libre
+11-12,Niña,>45,Universitarios,1201-2400€,En el colegio,Leer cuentos/libros,Celebración en casa
+6-8,Niño,36-40,Universitarios,>4500€,Al aire libre,Jugar,Día sin clase en el cole
+3-5,Niña,41-45,Secundarios,NS/NC,Al aire libre,Jugar,Gymkana o juego en la ciudad
+0-2,Niña,>45,Universitarios,2401-4500€,En el colegio,Bailar y música,Visita a museos/teatro
+9-10,Niño,41-45,Secundarios,600-1200€,En el parque,Deportes,Día sin clase en el cole
+9-10,Niña,41-45,FP Grado Superior,NS/NC,Al aire libre,Jugar,Celebración en casa
+3-5,Niño,36-40,Universitarios,2401-4500€,En el parque,Jugar,Celebración en casa
+0-2,Niña,36-40,Universitarios,600-1200€,En el colegio,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,30-35,Universitarios,NS/NC,En el parque,Jugar,Visita a museos/teatro
+0-2,Niña,36-40,Universitarios,>4500€,En la naturaleza,Manualidades,Celebración en casa
+9-10,Niño,<30,Universitarios,>4500€,En la naturaleza,Deportes,Fiesta al aire libre
+11-12,Niño,30-35,Primarios,2401-4500€,En el parque,Jugar,Fiesta al aire libre
+6-8,Niña,>45,Secundarios,600-1200€,En la naturaleza,Jugar,Celebración en casa
+3-5,Niña,36-40,Universitarios,600-1200€,En la naturaleza,Jugar,Fiesta al aire libre
+9-10,Niño,41-45,Universitarios,2401-4500€,En el colegio,Jugar,Actividades virtuales
+11-12,Niño,>45,Universitarios,600-1200€,En el colegio,Deportes,Gymkana o juego en la ciudad
+6-8,Niña,41-45,Universitarios,1201-2400€,Al aire libre,Manualidades,Gymkana o juego en la ciudad
+11-12,Niña,30-35,FP Grado Medio,>4500€,En la naturaleza,Jugar,Día sin clase en el cole
+0-2,Niño,41-45,Universitarios,>4500€,En el parque,Jugar,Día sin clase en el cole
+6-8,Niño,41-45,Universitarios,1201-2400€,En la calle,Jugar,Día sin clase en el cole
+9-10,Niño,41-45,Secundarios,>4500€,En la naturaleza,Jugar,Actividades virtuales
+11-12,Niña,41-45,Primarios,>4500€,En el colegio,Manualidades,Celebración en casa
+0-2,Niño,>45,Universitarios,2401-4500€,En el parque,Jugar,Celebración en casa
+11-12,Niño,41-45,Secundarios,600-1200€,Al aire libre,Jugar,Fiesta al aire libre
+6-8,Niña,36-40,Secundarios,600-1200€,En el parque,Jugar,Actividades virtuales
+3-5,Niño,41-45,Secundarios,1201-2400€,En el colegio,Manualidades,Fiesta al aire libre
+0-2,Niño,30-35,Universitarios,600-1200€,En el parque,Jugar,Actividades virtuales
+11-12,Niño,>45,Universitarios,600-1200€,En el colegio,Manualidades,Gymkana o juego en la ciudad
+0-2,Niño,30-35,Universitarios,600-1200€,Al aire libre,Manualidades,Visita a museos/teatro
+3-5,Niño,36-40,Universitarios,1201-2400€,En la calle,Deportes,Celebración en casa
+3-5,Niña,>45,FP Grado Superior,NS/NC,Al aire libre,Jugar,Gymkana o juego en la ciudad
+11-12,Niño,41-45,Universitarios,600-1200€,En casa,Jugar,Fiesta al aire libre
