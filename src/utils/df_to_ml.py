@@ -1,3 +1,4 @@
+# Versión 1 preparación para Machine Learning
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder, StandardScaler
@@ -113,7 +114,7 @@ def df_to_ml(df_original, max_tfidf_features=5):
         if col in df_ml.columns:
             # Convertir a datetime si no lo está ya
             if not pd.api.types.is_datetime64_any_dtype(df_ml[col]):
-                df_ml[col] = pd.to_datetime(df_ml[col], errors='coerce')
+                df_ml[col] = pd.to_datetime(df_ml[col], errors='coerce', dayfirst=True)
             
             if df_ml[col].notna().any():
                 # Extraer componentes de fecha
@@ -171,25 +172,42 @@ def df_to_ml(df_original, max_tfidf_features=5):
                                    (df_ml['dia_miércoles'] == 1) | (df_ml['dia_jueves'] == 1) | 
                                    (df_ml['dia_viernes'] == 1)).astype(int)
     
-    # 8. Procesar distritos
+     # 8. Procesar periodicidad
+    # ---------------------
+    if 'periodicidad' in df_ml.columns:
+        df_ml['periodicidad'] = df_ml['periodicidad'].fillna('Ninguna')
+        df_ml['periodicidad_diaria'] = (df_ml['periodicidad'] == 'diaria').astype(int)
+        df_ml['periodicidad_semanal'] = (df_ml['periodicidad'] == 'semanal').astype(int)
+        df_ml['periodicidad_quincenal'] = (df_ml['periodicidad'] == 'quincenal').astype(int)
+        df_ml['periodicidad_mensual'] = (df_ml['periodicidad'] == 'mensual').astype(int)
+    
+    
+    # 9. Procesar distritos
     # ------------------
     if 'distrito' in df_ml.columns:
-        # One-hot encoding para distritos
         df_ml['distrito'] = df_ml['distrito'].fillna('No especificado')
         distritos = df_ml['distrito'].unique()
-        for distrito in distritos:
-            if distrito and distrito != 'nan':
-                df_ml[f'distrito_{distrito}'] = (df_ml['distrito'] == distrito).astype(int)
+        
+        distrito_cols = {
+            f'distrito_{d}': (df_ml['distrito'] == d).astype(int) 
+            for d in distritos if d and d != 'nan'
+        }
     
-    # 9. Procesar otras características booleanas
+        df_ml = pd.concat([df_ml, pd.DataFrame(distrito_cols, index=df_ml.index)], axis=1)
+
+    
+    # 10. Procesar otras características booleanas
     # ---------------------------------------
     # Convertir columnas booleanas a numéricas
     bool_cols = ['requiere_inscripcion', 'recomendado', 'tiene_url_info', 'tiene_url_imagen']
     for col in bool_cols:
         if col in df_ml.columns:
-            df_ml[col] = df_ml[col].fillna(False).astype(int)
+            # Asegurarse de que pandas infiera el tipo de la columna antes de trabajar con ella
+            # df_ml[col] = df_ml[col].infer_objects(copy=False)
+            df_ml[col] = df_ml[col].astype('boolean').fillna(False)  # Convertir a booleano y llenar NaN
+            df_ml[col] = df_ml[col].astype(int)  # Convertir a entero
     
-    # 10. Procesar precio
+    # 11. Procesar precio
     # ----------------
     if 'precio_valor' in df_ml.columns:
         df_ml['precio_valor'] = pd.to_numeric(df_ml['precio_valor'], errors='coerce')
@@ -198,20 +216,20 @@ def df_to_ml(df_original, max_tfidf_features=5):
         df_ml['precio_medio'] = ((df_ml['precio_valor'] > 10) & (df_ml['precio_valor'] <= 30)).astype(int)
         df_ml['precio_alto'] = (df_ml['precio_valor'] > 30).astype(int)
     
-    # 11. Agregar columna ciudad_madrid para uniformidad
+    # 12. Agregar columna ciudad_madrid para uniformidad
     # ----------------------------------------------
-    df_ml['ciudad_madrid'] = 1
+    df_ml['ciudad_Madrid'] = 1
     
-    # 12. Eliminar columnas originales que ya han sido procesadas
+    # 13. Eliminar columnas originales que ya han sido procesadas
     # ------------------------------------------------------
     columnas_a_eliminar = [
-        'título', 'descripción', 'categoría', 'subcategoría', 
-        'día_días', 'distrito', 'fecha_inicio', 'fecha_fin'
+        'título', 'descripción', 'categoría', 'subcategoría', 'ciudad',
+        'día_días', 'distrito', 'fecha_inicio', 'fecha_fin', 'periodicidad',
     ]
     cols_to_drop = [col for col in columnas_a_eliminar if col in df_ml.columns]
     df_ml = df_ml.drop(columns=cols_to_drop)
     
-    # 13. Opcional: Estandarización de variables numéricas
+    # 14. Opcional: Estandarización de variables numéricas
     # ------------------------------------------------
     # Identificar columnas numéricas para estandarización
     numeric_cols = df_ml.select_dtypes(include=[np.number]).columns
@@ -230,9 +248,10 @@ def df_to_ml(df_original, max_tfidf_features=5):
         scaler = StandardScaler()
         df_ml[scale_cols] = scaler.fit_transform(df_ml[scale_cols])
     
-    # 14. Manejo de valores faltantes finales
+    # 15. Manejo de valores faltantes finales
     # ------------------------------------
     # Rellenar los valores NaN restantes con 0
     df_ml = df_ml.fillna(0)
+
     
     return df_ml
