@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder, StandardScaler
 from sklearn.feature_extraction.text import TfidfVectorizer
-import re
 from datetime import datetime
 
 def df_to_ml(df_original, max_tfidf_features=5):
@@ -48,7 +47,8 @@ def df_to_ml(df_original, max_tfidf_features=5):
         titulo_tfidf = tfidf_titulo.fit_transform(df_ml['título'].fillna(''))
         titulo_tfidf_df = pd.DataFrame(
             titulo_tfidf.toarray(), 
-            columns=[f'titulo_tfidf_{i}' for i in range(titulo_tfidf.shape[1])]
+            columns=[f'titulo_tfidf_{i}' for i in range(titulo_tfidf.shape[1])],
+            index=df_ml.index
         )
         df_ml = pd.concat([df_ml, titulo_tfidf_df], axis=1)
     
@@ -62,7 +62,8 @@ def df_to_ml(df_original, max_tfidf_features=5):
         desc_tfidf = tfidf_desc.fit_transform(df_ml['descripción'].fillna(''))
         desc_tfidf_df = pd.DataFrame(
             desc_tfidf.toarray(), 
-            columns=[f'desc_tfidf_{i}' for i in range(desc_tfidf.shape[1])]
+            columns=[f'desc_tfidf_{i}' for i in range(desc_tfidf.shape[1])],
+            index=df_ml.index
         )
         df_ml = pd.concat([df_ml, desc_tfidf_df], axis=1)
     
@@ -211,10 +212,10 @@ def df_to_ml(df_original, max_tfidf_features=5):
     # ----------------
     if 'precio_valor' in df_ml.columns:
         df_ml['precio_valor'] = pd.to_numeric(df_ml['precio_valor'], errors='coerce')
-        df_ml['precio_gratuito'] = (df_ml['precio_valor'] == 0).astype(int)
-        df_ml['precio_bajo'] = ((df_ml['precio_valor'] > 0) & (df_ml['precio_valor'] <= 10)).astype(int)
-        df_ml['precio_medio'] = ((df_ml['precio_valor'] > 10) & (df_ml['precio_valor'] <= 30)).astype(int)
-        df_ml['precio_alto'] = (df_ml['precio_valor'] > 30).astype(int)
+        df_ml['precio_gratuito'] = (df_ml['precio_valor'] == 0).fillna(False).astype(int)
+        df_ml['precio_bajo'] = ((df_ml['precio_valor'] > 0) & (df_ml['precio_valor'] <= 10)).fillna(False).astype(int)
+        df_ml['precio_medio'] = ((df_ml['precio_valor'] > 10) & (df_ml['precio_valor'] <= 30)).fillna(False).astype(int)
+        df_ml['precio_alto'] = (df_ml['precio_valor'] > 30).fillna(False).astype(int)
     
     # 12. Agregar columna ciudad_madrid para uniformidad
     # ----------------------------------------------
@@ -250,8 +251,12 @@ def df_to_ml(df_original, max_tfidf_features=5):
     
     # 15. Manejo de valores faltantes finales
     # ------------------------------------
-    # Rellenar los valores NaN restantes con 0
-    df_ml = df_ml.fillna(0)
+    # Identificar columnas numéricas
+    cols_numericas = df_ml.select_dtypes(include=['number']).columns
+
+    # Rellenar NaN solo en esas columnas
+    df_ml[cols_numericas] = df_ml[cols_numericas].fillna(0)
+
 
     
     return df_ml
