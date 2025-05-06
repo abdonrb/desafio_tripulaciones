@@ -148,10 +148,9 @@ def df_to_ml(df_original, max_tfidf_features=5):
     time_cols = ['hora_inicio', 'hora_fin']
     for col in time_cols:
         if col in df_ml.columns:
-            # Convertir a formato numérico si es string
-            if df_ml[col].dtype == 'object':
-                df_ml[col] = pd.to_datetime(df_ml[col], format='%H:%M', errors='coerce').dt.hour + \
-                             pd.to_datetime(df_ml[col], format='%H:%M', errors='coerce').dt.minute / 60
+            # Convertir a formato numérico si hay datos(horas decimales)
+            df_ml[col] = pd.to_datetime(df_ml[col], format='%H:%M', errors='coerce')
+            df_ml[col] = df_ml[col].dt.hour + df_ml[col].dt.minute / 60
             
             # Características de periodo del día
             if pd.notna(df_ml[col]).any():
