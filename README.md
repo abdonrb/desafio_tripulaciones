@@ -1,6 +1,6 @@
 # Proyecto de Recomendación de Actividades de que hacer con los niños
 
-![Colaboracion de que hacer con los niños](../desafio_tripulaciones/img/Colaboracion%20con%20que%20hacer%20con%20los%20niños.png)
+![Colaboracion de que hacer con los niños](img/Colaboracion%20con%20que%20hacer%20con%20los%20niños.png)
 
 Este proyecto tiene como objetivo centralizar, automatizar y mejorar el acceso a la información sobre actividades y eventos de la comunidad, así como ofrecer recomendaciones personalizadas a los usuarios.
 
@@ -37,8 +37,8 @@ Este proyecto tiene como objetivo centralizar, automatizar y mejorar el acceso a
 
 A continuación, se pueden añadir imágenes ilustrativas del proyecto, como capturas de pantalla de la interfaz, ejemplos de respuestas del chatbot, o visualizaciones de los datos y recomendaciones.
 
-![Ejemplo de interfaz](../desafio_tripulaciones/img/Ejemplo%20de%20interfaz.png)
-![Chatbot respondiendo](../desafio_tripulaciones/img/Chatbot.png)
+![Ejemplo de interfaz](img/Ejemplo%20de%20interfaz.png)
+![Chatbot respondiendo](img/Chatbot.png)
 
 ## Colaboración
 
