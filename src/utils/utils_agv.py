@@ -259,3 +259,18 @@ def df_to_ml(df_original, max_tfidf_features=5):
 
     
     return df_ml
+
+
+def alinear_columnas(df_filtrado_ml, df_ml):
+    # Añadir columnas que faltan en df_filtrado_ml y están en df_ml
+    for col in df_ml.columns:
+        if col not in df_filtrado_ml.columns:
+            df_filtrado_ml[col] = 0
+
+    # Eliminar columnas sobrantes en df_filtrado_ml que no estén en df_ml
+    df_filtrado_ml = df_filtrado_ml[df_ml.columns]
+
+    # Crear una copia del DataFrame para corregir la fragmentación
+    df_filtrado_ml = df_filtrado_ml.copy()
+    
+    return df_filtrado_ml
